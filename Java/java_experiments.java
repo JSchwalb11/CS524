@@ -13,6 +13,7 @@ public class java_experiments {
     FileReader fr;
     try {
       fp = par_dir +  "\\" + fn;
+      System.out.println("Fp = " + fp);
       fr = new FileReader(fp);
     }
     catch(Exception e){
@@ -20,6 +21,7 @@ public class java_experiments {
       fp = par_dir +  "/" + fn;
       try {
         fr = new FileReader(fp);
+        System.out.println("Fp = " + fp);
       } catch (FileNotFoundException e1) {
         // TODO Auto-generated catch block
         e1.printStackTrace();
