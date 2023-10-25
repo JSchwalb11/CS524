@@ -3,33 +3,17 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class java_experiments {
 
   public static ArrayList<Integer> setup(String fn){
-    String par_dir = Paths.get(".").toAbsolutePath().normalize().toString();
-    String fp;
-    FileReader fr;
-    try {
-      fp = par_dir +  "\\" + fn;
-      System.out.println("Fp = " + fp);
-      fr = new FileReader(fp);
-    }
-    catch(Exception e){
-      //System.out.println(e);
-      fp = par_dir +  "/" + fn;
-      try {
-        fr = new FileReader(fp);
-        System.out.println("Fp = " + fp);
-      } catch (FileNotFoundException e1) {
-        // TODO Auto-generated catch block
-        e1.printStackTrace();
-      }
-    }
+    String par_dir = Paths.get(".", fn).toAbsolutePath().normalize().toString();
 
     ArrayList<Integer> arr = new ArrayList<>();
-    try (BufferedReader br = new BufferedReader(new FileReader(fp))) {
+    //try (BufferedReader br = new BufferedReader(new FileReader(fp))) {
+    try (BufferedReader br = new BufferedReader(new FileReader(par_dir))) {
       String line;
       while ((line = br.readLine()) != null) {
         arr.add(Integer.parseInt(line));
