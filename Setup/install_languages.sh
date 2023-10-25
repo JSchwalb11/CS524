@@ -4,6 +4,7 @@
 sudo apt-get update -y && sudo apt-get upgrade -y
 # works on ubuntu 22.04
 sudo apt install openjdk-19-jre-headless # install java
+sudo apt install openjdk-19-jdk-headless # install javac
 sudo apt-get install build-essential # ensure all c/c++ compilers are installed
 sudo apt install python3-pip # python package manager (python already included)
 # install torch deps
