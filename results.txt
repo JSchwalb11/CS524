@@ -1,49 +1,49 @@
 Runs = 1
 BEGIN - Java Binary Search
 
-real	0m0.447s
-user	0m0.394s
-sys	0m0.045s
+real	0m0.434s
+user	0m0.388s
+sys	0m0.037s
 END - Java Binary Search
 BEGIN - Java Sum Pooling
 
 real	0m0.500s
-user	0m0.427s
-sys	0m0.065s
+user	0m0.452s
+sys	0m0.040s
 END - Java Sum Pooling
 BEGIN - Java Min Pooling
 
-real	0m0.518s
-user	0m0.457s
-sys	0m0.054s
+real	0m0.515s
+user	0m0.458s
+sys	0m0.049s
 END - Java Min Pooling
 BEGIN - Java Max Pooling
 
-real	0m0.521s
-user	0m0.478s
-sys	0m0.033s
+real	0m0.510s
+user	0m0.462s
+sys	0m0.041s
 END - Java Max Pooling
 BEGIN - Java Avg Pooling
 
-real	0m0.507s
-user	0m0.440s
-sys	0m0.060s
+real	0m0.498s
+user	0m0.447s
+sys	0m0.040s
 END - Java Avg Pooling
 
  Performance counter stats for 'bash run_java_experiments.sh 1':
 
-           2457.96 msec task-clock                       #    0.983 CPUs utilized             
-              6768      context-switches                 #    2.754 K/sec                     
+           2420.30 msec task-clock                       #    0.982 CPUs utilized             
+              6846      context-switches                 #    2.829 K/sec                     
                  0      cpu-migrations                   #    0.000 /sec                      
-             73615      page-faults                      #   29.950 K/sec                     
+             73305      page-faults                      #   30.288 K/sec                     
    <not supported>      cycles                                                                
    <not supported>      instructions                                                          
    <not supported>      branches                                                              
    <not supported>      branch-misses                                                         
 
-       2.500252066 seconds time elapsed
+       2.464522392 seconds time elapsed
 
-       2.200467000 seconds user
-       0.257120000 seconds sys
+       2.211886000 seconds user
+       0.208298000 seconds sys
 
 
