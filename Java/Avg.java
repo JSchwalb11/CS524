@@ -6,7 +6,7 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 
-public class Sum {
+public class Avg {
     private double[][] filter;
     private double[][][] image;
     private int channels;
@@ -18,7 +18,7 @@ public class Sum {
     private int outputWidth;
     private double[][][] result;
 
-    public Sum(double[][] filter, BufferedImage image) {
+    public Avg(double[][] filter, BufferedImage image) {
         this.filter = filter;
         this.image = this.imageTo3DArray(image);
         this.channels = this.image[0][0].length;
@@ -29,22 +29,20 @@ public class Sum {
         this.outputHeight = this.imageHeight - this.filterHeight + 1;
         this.outputWidth = this.imageWidth - this.filterWidth + 1;
         this.result = new double[this.outputHeight][this.outputWidth][this.channels];
-        this.apply_sum();
+        this.apply_avg();
     }
-    private void apply_sum() {
+
+    private void apply_avg() {
         for (int c = 0; c < this.channels; c++) {
             for (int i = 0; i < this.outputHeight; i++) {
                 for (int j = 0; j < this.outputWidth; j++) {
                     double sum = 0;
                     for (int m = 0; m < this.filterHeight; m++) {
                         for (int n = 0; n < this.filterWidth; n++) {
-                            double a = this.image[i + m][j + n][c];
-                            double b = this.filter[m][n];
-                            sum += a * b;
-                            // sum += this.image[i + m][j + n][c] * this.filter[m][n];
+                            sum += this.image[i + m][j + n][c] * this.filter[m][n];
                         }
                     }
-                    this.result[i][j][c] = (int) sum;
+                    this.result[i][j][c] = sum / (this.filterHeight * this.filterWidth);
                 }
             }
         }
@@ -77,14 +75,26 @@ public class Sum {
         try {
             // Load a sample color image
             BufferedImage img = ImageIO.read(new File("img.jpg"));
+
+            // Convolution3D convolution3D = new Convolution3D(filter, img, true);
+            // convolution3D.saveImage("java_before.jpg");
+
+            // // Convolution3D convolution3D1 = new Convolution3D(filter, img, new Sum());
+            // // convolution3D1.saveImage("java_after_sum.jpg");
+
+            // // Convolution3D convolution3D2 = new Convolution3D(filter, img, new Max());
+            // // convolution3D2.saveImage("java_after_max.jpg");
+
+            // // Convolution3D convolution3D3 = new Convolution3D(filter, img, new Min());
+            // // convolution3D3.saveImage("java_after_min.jpg");
+
             
-            Sum convolution3D4 = new Sum(filter, img);
+            Avg convolution3D4 = new Avg(filter, img);
+            // convolution3D4.saveImage("java_after_avg.jpg");
 
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
+
 }
-
-
-

@@ -223,17 +223,17 @@ public class Convolution3D {
             Convolution3D convolution3D = new Convolution3D(filter, img, true);
             convolution3D.saveImage("java_before.jpg");
 
-            Convolution3D convolution3D1 = new Convolution3D(filter, img, new Sum());
-            convolution3D1.saveImage("java_after_sum.jpg");
+            // Convolution3D convolution3D1 = new Convolution3D(filter, img, new Sum());
+            // convolution3D1.saveImage("java_after_sum.jpg");
 
-            Convolution3D convolution3D2 = new Convolution3D(filter, img, new Max());
-            convolution3D2.saveImage("java_after_max.jpg");
+            // Convolution3D convolution3D2 = new Convolution3D(filter, img, new Max());
+            // convolution3D2.saveImage("java_after_max.jpg");
 
-            Convolution3D convolution3D3 = new Convolution3D(filter, img, new Min());
-            convolution3D3.saveImage("java_after_min.jpg");
+            // Convolution3D convolution3D3 = new Convolution3D(filter, img, new Min());
+            // convolution3D3.saveImage("java_after_min.jpg");
 
-            Convolution3D convolution3D4 = new Convolution3D(filter, img, new Average());
-            convolution3D4.saveImage("java_after_avg.jpg");
+            // Convolution3D convolution3D4 = new Convolution3D(filter, img, new Average());
+            // convolution3D4.saveImage("java_after_avg.jpg");
 
         } catch (IOException e) {
             e.printStackTrace();

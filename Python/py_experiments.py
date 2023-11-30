@@ -36,7 +36,7 @@ def binarySearch(arr: np.ndarray, size:int, search_value:int):
 def read_image(fp: str) -> Image.Image:
     return Image.open(fp)
 
-def convolve3d(image: np.ndarray, kernel: np.ndarray, stride=3, padding=0, func=np.sum):
+def convolve3d(image: np.ndarray, kernel: np.ndarray, stride=1, padding=0, func=np.sum):
     # Get the dimensions of the input image and kernel
     image_height, image_width, num_channels = image.shape
     kernel_height, kernel_width = kernel.shape
@@ -52,7 +52,7 @@ def convolve3d(image: np.ndarray, kernel: np.ndarray, stride=3, padding=0, func=
     padded_image = np.pad(image, ((padding, padding), (padding, padding), (0, 0)), mode='constant')
     
     # Flip the kernel for the convolution operation
-    kernel = np.flipud(np.fliplr(kernel))
+    # kernel = np.flipud(np.fliplr(kernel))
     
     # Perform the convolution with stride and padding
     for c in range(num_channels):
@@ -61,29 +61,31 @@ def convolve3d(image: np.ndarray, kernel: np.ndarray, stride=3, padding=0, func=
                 # Extract the region of the padded image that the kernel is currently applied to
                 image_patch = padded_image[i:i + kernel_height, j:j + kernel_width, c]
                 # Compute the dot product of the region and the kernel
-                result[i // stride, j // stride, c] = func(image_patch * kernel).astype(np.uint8)
+                # result[i // stride, j // stride, c] = func(image_patch * kernel).astype(np.uint8)
+                result[i, j, c] = func(image_patch * kernel).astype(np.uint8)
     
     return result
-if __name__ == '__main__':
-    # arr = setup()
-    # search_value = 2**19 + 1 # list is 0-based and of length 2^20. Force 20 guesses.
-    # index = binarySearch(arr, len(arr), search_value)
-    # if (index > -1):
-    #     print(f"Found value {search_value} at index {index}\n")
-    # #   System.out.println("Found value " + Integer.toString(search_value) + " at index " + Integer.toString(index) + "\n");
-    # # }
-    
-    filter_kernel = np.array([[1, 0, -1],
-                            [2, 0, -2],
-                            [1, 0, -1]])
-    
-    filter_kernel1 = np.array([[-1, 0, 1],
-                            [-2, 0, 2],
-                            [-1, 0, 1]])
-    
-    stride = 1
 
-    image = np.array(read_image(os.getcwd() + "/img.jpg"))
+if __name__ == '__main__':
+    arr = setup()
+    search_value = 2**19 + 1 # list is 0-based and of length 2^20. Force 20 guesses.
+    index = binarySearch(arr, len(arr), search_value)
+    if (index > -1):
+        print(f"Found value {search_value} at index {index}\n")
+    #   System.out.println("Found value " + Integer.toString(search_value) + " at index " + Integer.toString(index) + "\n");
+    # }
+    
+    # filter_kernel = np.array([[1, 0, -1],
+    #                         [2, 0, -2],
+    #                         [1, 0, -1]])
+    
+    # # filter_kernel1 = np.array([[-1, 0, 1],
+    # #                         [-2, 0, 2],
+    # #                         [-1, 0, 1]])
+    
+    # stride = 1
+
+    # image = np.array(read_image(os.getcwd() + "/img.jpg"))
     # conv_result1 = convolve3d(image, filter_kernel, stride=stride)
     # image1 = Image.fromarray(conv_result1)
     # image1.save(f"res_1_stride={stride}.jpg")
@@ -92,14 +94,22 @@ if __name__ == '__main__':
     # image2 = Image.fromarray(conv_result2)
     # image2.save(f"res_2_stride={stride}.jpg")
     
-    conv_avg_pool_result = convolve3d(image, filter_kernel1, stride=stride, func=np.mean)
-    image2 = Image.fromarray(conv_avg_pool_result)
-    image2.save(f"avg_pool_res_1_stride={stride}.jpg")
+    # conv_avg_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.sum)
+    # image2 = Image.fromarray(conv_avg_pool_result)
+    # #image2.save(f"avg_pool_res_1_stride={stride}.jpg")
+    # image2.save(f"python_after_sum.jpg")
     
-    conv_max_pool_result = convolve3d(image, filter_kernel1, stride=stride, func=np.max)
-    image2 = Image.fromarray(conv_avg_pool_result)
-    image2.save(f"max_pool_res_1_stride={stride}.jpg")
+    # conv_avg_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.mean)
+    # image2 = Image.fromarray(conv_avg_pool_result)
+    # #image2.save(f"avg_pool_res_1_stride={stride}.jpg")
+    # image2.save(f"python_after_avg.jpg")
     
-    conv_min_pool_result = convolve3d(image, filter_kernel1, stride=stride, func=np.min)
-    image2 = Image.fromarray(conv_min_pool_result)
-    image2.save(f"min_pool_res_1_stride={stride}.jpg")
+    # conv_max_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.max)
+    # image2 = Image.fromarray(conv_avg_pool_result)
+    # #image2.save(f"max_pool_res_1_stride={stride}.jpg")
+    # image2.save(f"python_after_max.jpg")
+    
+    # conv_min_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.min)
+    # image2 = Image.fromarray(conv_min_pool_result)
+    # #image2.save(f"min_pool_res_1_stride={stride}.jpg")
+    # image2.save(f"python_after_min.jpg")
