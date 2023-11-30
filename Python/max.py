@@ -14,5 +14,6 @@ if __name__ == '__main__':
     
     stride = 1
 
-    image = np.array(read_image(os.getcwd() + "/img.jpg"))
+    #image = np.array(read_image(os.getcwd() + "/img.jpg"))
+    image = np.zeros((640,640,3))
     conv_avg_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.max)
