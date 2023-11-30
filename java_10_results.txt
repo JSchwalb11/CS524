@@ -1,0 +1,369 @@
+Runs = 10
+BEGIN - Java Binary Search
+Run 1
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.493s
+user	0m0.393s
+sys	0m0.040s
+----------
+Run 2
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.435s
+user	0m0.395s
+sys	0m0.032s
+----------
+Run 3
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.438s
+user	0m0.369s
+sys	0m0.059s
+----------
+Run 4
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.431s
+user	0m0.387s
+sys	0m0.036s
+----------
+Run 5
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.454s
+user	0m0.389s
+sys	0m0.056s
+----------
+Run 6
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.423s
+user	0m0.372s
+sys	0m0.044s
+----------
+Run 7
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.432s
+user	0m0.388s
+sys	0m0.036s
+----------
+Run 8
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.435s
+user	0m0.377s
+sys	0m0.048s
+----------
+Run 9
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.428s
+user	0m0.380s
+sys	0m0.040s
+----------
+Run 10
+Found value in 20 guesses.
+
+Found value 524288 at index 524288
+
+
+real	0m0.429s
+user	0m0.377s
+sys	0m0.044s
+----------
+END - Java Binary Search
+BEGIN - Java Sum Pooling
+Run 1
+
+real	0m0.517s
+user	0m0.461s
+sys	0m0.048s
+----------
+Run 2
+
+real	0m0.514s
+user	0m0.440s
+sys	0m0.064s
+----------
+Run 3
+
+real	0m0.502s
+user	0m0.434s
+sys	0m0.060s
+----------
+Run 4
+
+real	0m0.503s
+user	0m0.415s
+sys	0m0.080s
+----------
+Run 5
+
+real	0m0.499s
+user	0m0.447s
+sys	0m0.044s
+----------
+Run 6
+
+real	0m0.561s
+user	0m0.444s
+sys	0m0.052s
+----------
+Run 7
+
+real	0m0.517s
+user	0m0.445s
+sys	0m0.065s
+----------
+Run 8
+
+real	0m0.516s
+user	0m0.444s
+sys	0m0.065s
+----------
+Run 9
+
+real	0m0.503s
+user	0m0.441s
+sys	0m0.052s
+----------
+Run 10
+
+real	0m0.502s
+user	0m0.419s
+sys	0m0.071s
+----------
+END - Java Sum Pooling
+BEGIN - Java Min Pooling
+Run 1
+
+real	0m0.509s
+user	0m0.448s
+sys	0m0.053s
+----------
+Run 2
+
+real	0m0.508s
+user	0m0.455s
+sys	0m0.045s
+----------
+Run 3
+
+real	0m0.522s
+user	0m0.433s
+sys	0m0.081s
+----------
+Run 4
+
+real	0m0.526s
+user	0m0.463s
+sys	0m0.052s
+----------
+Run 5
+
+real	0m0.520s
+user	0m0.470s
+sys	0m0.041s
+----------
+Run 6
+
+real	0m0.539s
+user	0m0.478s
+sys	0m0.053s
+----------
+Run 7
+
+real	0m0.512s
+user	0m0.443s
+sys	0m0.061s
+----------
+Run 8
+
+real	0m0.517s
+user	0m0.433s
+sys	0m0.073s
+----------
+Run 9
+
+real	0m0.511s
+user	0m0.434s
+sys	0m0.069s
+----------
+Run 10
+
+real	0m0.517s
+user	0m0.464s
+sys	0m0.045s
+----------
+END - Java Min Pooling
+BEGIN - Java Max Pooling
+Run 1
+
+real	0m0.511s
+user	0m0.422s
+sys	0m0.081s
+----------
+Run 2
+
+real	0m0.509s
+user	0m0.441s
+sys	0m0.057s
+----------
+Run 3
+
+real	0m0.509s
+user	0m0.429s
+sys	0m0.073s
+----------
+Run 4
+
+real	0m0.510s
+user	0m0.441s
+sys	0m0.061s
+----------
+Run 5
+
+real	0m0.522s
+user	0m0.451s
+sys	0m0.059s
+----------
+Run 6
+
+real	0m0.512s
+user	0m0.435s
+sys	0m0.069s
+----------
+Run 7
+
+real	0m0.514s
+user	0m0.465s
+sys	0m0.041s
+----------
+Run 8
+
+real	0m0.515s
+user	0m0.462s
+sys	0m0.045s
+----------
+Run 9
+
+real	0m0.512s
+user	0m0.436s
+sys	0m0.065s
+----------
+Run 10
+
+real	0m0.515s
+user	0m0.446s
+sys	0m0.061s
+----------
+END - Java Max Pooling
+BEGIN - Java Avg Pooling
+Run 1
+
+real	0m0.499s
+user	0m0.442s
+sys	0m0.049s
+----------
+Run 2
+
+real	0m0.498s
+user	0m0.453s
+sys	0m0.037s
+----------
+Run 3
+
+real	0m0.507s
+user	0m0.435s
+sys	0m0.061s
+----------
+Run 4
+
+real	0m0.500s
+user	0m0.439s
+sys	0m0.053s
+----------
+Run 5
+
+real	0m0.504s
+user	0m0.446s
+sys	0m0.050s
+----------
+Run 6
+
+real	0m0.526s
+user	0m0.469s
+sys	0m0.050s
+----------
+Run 7
+
+real	0m0.504s
+user	0m0.428s
+sys	0m0.065s
+----------
+Run 8
+
+real	0m0.506s
+user	0m0.449s
+sys	0m0.049s
+----------
+Run 9
+
+real	0m0.506s
+user	0m0.433s
+sys	0m0.065s
+----------
+Run 10
+
+real	0m0.509s
+user	0m0.441s
+sys	0m0.060s
+----------
+END - Java Avg Pooling
+
+ Performance counter stats for 'bash run_java_experiments.sh 10':
+
+          24382.89 msec task-clock                       #    0.978 CPUs utilized             
+             68644      context-switches                 #    2.815 K/sec                     
+                 0      cpu-migrations                   #    0.000 /sec                      
+            720530      page-faults                      #   29.551 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      24.920369404 seconds time elapsed
+
+      21.609192000 seconds user
+       2.765491000 seconds sys
+
+
