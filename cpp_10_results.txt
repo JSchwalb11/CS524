@@ -1,0 +1,49 @@
+Runs = 10
+BEGIN - Binary Search
+
+real	0m0.022s
+user	0m0.014s
+sys	0m0.007s
+END - Binary Search
+BEGIN - Max Pooling
+
+real	0m4.354s
+user	0m4.109s
+sys	0m0.231s
+END - Max Pooling
+BEGIN - Min Pooling
+
+real	0m4.338s
+user	0m4.074s
+sys	0m0.251s
+END - min Pooling
+BEGIN - avg Pooling
+
+real	0m4.212s
+user	0m3.963s
+sys	0m0.236s
+END - avg Pooling
+BEGIN - Sum Pooling
+
+real	0m4.184s
+user	0m3.964s
+sys	0m0.207s
+END - Sum Pooling
+
+ Performance counter stats for 'bash run_cpp_experiments.sh 10':
+
+          17064.75 msec task-clock                       #    0.997 CPUs utilized             
+               700      context-switches                 #   41.020 /sec                      
+                 0      cpu-migrations                   #    0.000 /sec                      
+            458469      page-faults                      #   26.866 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+      17.117727260 seconds time elapsed
+
+      16.129577000 seconds user
+       0.933533000 seconds sys
+
+
