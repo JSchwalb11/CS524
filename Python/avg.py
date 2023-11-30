@@ -8,12 +8,7 @@ if __name__ == '__main__':
                             [2, 0, -2],
                             [1, 0, -1]])
     
-    # filter_kernel1 = np.array([[-1, 0, 1],
-    #                         [-2, 0, 2],
-    #                         [-1, 0, 1]])
-    
     stride = 1
 
-    #image = np.array(read_image(os.getcwd() + "/img.jpg"))
-    image = np.zeros((640,640,3))
+    image = np.zeros((640,640,3), dtype=np.int32)
     conv_avg_pool_result = convolve3d(image, filter_kernel, stride=stride, func=np.mean)

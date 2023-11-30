@@ -1,14 +1,11 @@
 package Java;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-
-import javax.imageio.ImageIO;
 
 
 public class Max {
-    private double[][] filter;
-    private double[][][] image;
+    // private double[][] filter;
+    // private double[][][] image;
+    private int[][] filter;
+    private int[][][] image;
     private int channels;
     private int imageHeight;
     private int imageWidth;
@@ -16,11 +13,13 @@ public class Max {
     private int filterWidth;
     private int outputHeight;
     private int outputWidth;
-    private double[][][] result;
+    // private double[][][] result;
+    private int[][][] result;
 
-    public Max(double[][] filter, BufferedImage image) {
+    public Max(int[][] filter, int[][][] image) {
         this.filter = filter;
-        this.image = this.imageTo3DArray(image);
+        // this.image = this.imageTo3DArray(image);
+        this.image = image;
         this.channels = this.image[0][0].length;
         this.imageHeight = this.image.length;
         this.imageWidth = this.image[0].length;
@@ -28,17 +27,17 @@ public class Max {
         this.filterWidth = this.filter[0].length;
         this.outputHeight = this.imageHeight - this.filterHeight + 1;
         this.outputWidth = this.imageWidth - this.filterWidth + 1;
-        this.result = new double[this.outputHeight][this.outputWidth][this.channels];
+        this.result = new int[this.outputHeight][this.outputWidth][this.channels];
         this.apply_max();
     }
     private void apply_max() {
         for (int c = 0; c < this.channels; c++) {
             for (int i = 0; i < this.outputHeight; i++) {
                 for (int j = 0; j < this.outputWidth; j++) {
-                    double max = Double.MIN_VALUE;
+                    int max = Integer.MIN_VALUE;
                     for (int m = 0; m < this.filterHeight; m++) {
                         for (int n = 0; n < this.filterWidth; n++) {
-                            double current = this.image[i + m][j + n][c] * this.filter[m][n];
+                            int current = this.image[i + m][j + n][c] * this.filter[m][n];
                             max = Math.max(max, current);
                         }
                     }
@@ -48,39 +47,17 @@ public class Max {
         }
     }
 
-    public double[][][] imageTo3DArray(BufferedImage img) {
-        int height = img.getHeight();
-        int width = img.getWidth();
-        double[][][] imageArray = new double[height][width][3];
-
-        for (int i = 0; i < height; i++) {
-            for (int j = 0; j < width; j++) {
-                int rgb = img.getRGB(j, i);
-                imageArray[i][j][0] = (rgb >> 16) & 0xFF;
-                imageArray[i][j][1] = (rgb >> 8) & 0xFF;
-                imageArray[i][j][2] = rgb & 0xFF;
-            }
-        }
-
-        return imageArray;
-    }
-
     public static void main(String[] args) {
         // Define a simple 2D filter/kernel
-        double[][] filter = {
+        int[][] filter = {
                 {1, 0, -1},
                 {2, 0, -2},
                 {1, 0, -1}
         };
-        try {
-            // Load a sample color image
-            BufferedImage img = ImageIO.read(new File("img.jpg"));
-            
-            Max convolution3D4 = new Max(filter, img);
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        // Load a sample color image
+        int[][][] img = new int[640][640][3];
+        
+        Max max = new Max(filter, img);
     }
 }
 
