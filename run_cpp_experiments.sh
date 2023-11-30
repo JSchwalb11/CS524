@@ -11,35 +11,35 @@ echo "Runs = $runs"
 
 echo "BEGIN - Binary Search"
 time (for i in $(seq 1 $runs); do
-  ./cpp_experiments
+  C++/cpp_experiments
 done) > cpp_search.txt
 
 echo "END - Binary Search"
 
 echo "BEGIN - Max Pooling"
 time (for i in $(seq 1 $runs); do
-  ./max
+  C++/max
 done) > cpp_max.txt
 
 echo "END - Max Pooling"
 
 echo "BEGIN - Min Pooling"
 time (for i in $(seq 1 $runs); do
-  ./min
+  C++/min
 done) > cpp_min.txt
 
 echo "END - min Pooling"
 
 echo "BEGIN - avg Pooling"
 time (for i in $(seq 1 $runs); do
-  ./avg
+  C++/avg
 done) > cpp_avg.txt
 
 echo "END - avg Pooling"
 
 echo "BEGIN - Sum Pooling"
 time (for i in $(seq 1 $runs); do
-  ./sum
+  C++/sum
 done) > cpp_sum.txt
 
 echo "END - Sum Pooling"
