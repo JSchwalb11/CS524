@@ -10,32 +10,41 @@ fi
 echo "Runs = $runs"
 
 echo "BEGIN - Python Binary Search"
-time (for i in $(seq 1 $runs); do
+for i in $(seq 1 $runs); do
   echo "Run $i"
-  python3 Python/py_experiments.py
-done) > py_search.txt
+  time python3 Python/py_experiments.py
+  echo "----------"
+done
 echo "END - Python Binary Search"
 
 echo "BEGIN - Python Sum"
-time (for i in $(seq 1 $runs); do
-  python3 Python/sum.py
-done) > py_sum.txt
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time time python3 Python/sum.py
+  echo "----------"
+done
 echo "END - Python Sum"
 
 echo "BEGIN - Python Avg"
-time (for i in $(seq 1 $runs); do
-  python3 Python/avg.py
-done) > py_avg.txt
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/avg.py
+  echo "----------"
+done
 echo "END - Python Avg"
 
 echo "BEGIN - Python Min"
-time (for i in $(seq 1 $runs); do
-  python3 Python/min.py
-done) > py_min.txt
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/min.py
+  echo "----------"
+done
 echo "END - Python Min"
 
 echo "BEGIN - Python Max"
-time (for i in $(seq 1 $runs); do
-  python3 Python/max.py
-done) > py_max.txt
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/max.py
+  echo "----------"
+done
 echo "END - Python Max"
