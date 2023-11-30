@@ -1,49 +1,49 @@
 Runs = 1
 BEGIN - Java Binary Search
 
-real	0m0.428s
-user	0m0.364s
-sys	0m0.056s
+real	0m0.437s
+user	0m0.377s
+sys	0m0.049s
 END - Java Binary Search
 BEGIN - Java Sum Pooling
 
-real	0m0.497s
-user	0m0.446s
-sys	0m0.042s
+real	0m0.512s
+user	0m0.476s
+sys	0m0.028s
 END - Java Sum Pooling
 BEGIN - Java Min Pooling
 
-real	0m0.520s
-user	0m0.480s
-sys	0m0.032s
+real	0m0.537s
+user	0m0.472s
+sys	0m0.056s
 END - Java Min Pooling
 BEGIN - Java Max Pooling
 
-real	0m0.508s
-user	0m0.468s
-sys	0m0.032s
+real	0m0.505s
+user	0m0.432s
+sys	0m0.065s
 END - Java Max Pooling
 BEGIN - Java Avg Pooling
 
-real	0m0.497s
-user	0m0.430s
-sys	0m0.059s
+real	0m0.506s
+user	0m0.431s
+sys	0m0.064s
 END - Java Avg Pooling
 
  Performance counter stats for 'bash run_java_experiments.sh 1':
 
-           2415.03 msec task-clock                       #    0.983 CPUs utilized             
-              6792      context-switches                 #    2.812 K/sec                     
+           2456.64 msec task-clock                       #    0.981 CPUs utilized             
+              6875      context-switches                 #    2.799 K/sec                     
                  0      cpu-migrations                   #    0.000 /sec                      
-             73291      page-faults                      #   30.348 K/sec                     
+             73437      page-faults                      #   29.893 K/sec                     
    <not supported>      cycles                                                                
    <not supported>      instructions                                                          
    <not supported>      branches                                                              
    <not supported>      branch-misses                                                         
 
-       2.456472166 seconds time elapsed
+       2.503722856 seconds time elapsed
 
-       2.193199000 seconds user
-       0.221656000 seconds sys
+       2.193291000 seconds user
+       0.263082000 seconds sys
 
 
