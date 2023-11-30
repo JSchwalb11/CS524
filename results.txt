@@ -1,49 +1,549 @@
-Runs = 1
-BEGIN - Java Binary Search
+Runs = 100
+BEGIN - Binary Search
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
+run_cpp_experiments.sh: line 14: ./cpp_experiments: No such file or directory
 
-real	0m0.434s
-user	0m0.388s
-sys	0m0.037s
-END - Java Binary Search
-BEGIN - Java Sum Pooling
+real	0m0.067s
+user	0m0.035s
+sys	0m0.020s
+END - Binary Search
+BEGIN - Max Pooling
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
+run_cpp_experiments.sh: line 21: ./max: No such file or directory
 
-real	0m0.500s
-user	0m0.452s
-sys	0m0.040s
-END - Java Sum Pooling
-BEGIN - Java Min Pooling
+real	0m0.069s
+user	0m0.036s
+sys	0m0.019s
+END - Max Pooling
+BEGIN - Min Pooling
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
+run_cpp_experiments.sh: line 28: ./min: No such file or directory
 
-real	0m0.515s
-user	0m0.458s
-sys	0m0.049s
-END - Java Min Pooling
-BEGIN - Java Max Pooling
+real	0m0.070s
+user	0m0.039s
+sys	0m0.015s
+END - min Pooling
+BEGIN - avg Pooling
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
+run_cpp_experiments.sh: line 35: ./avg: No such file or directory
 
-real	0m0.510s
-user	0m0.462s
-sys	0m0.041s
-END - Java Max Pooling
-BEGIN - Java Avg Pooling
+real	0m0.073s
+user	0m0.039s
+sys	0m0.016s
+END - avg Pooling
+BEGIN - Sum Pooling
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
+run_cpp_experiments.sh: line 42: ./sum: No such file or directory
 
-real	0m0.498s
-user	0m0.447s
-sys	0m0.040s
-END - Java Avg Pooling
+real	0m0.068s
+user	0m0.039s
+sys	0m0.016s
+END - Sum Pooling
 
- Performance counter stats for 'bash run_java_experiments.sh 1':
+ Performance counter stats for 'bash run_cpp_experiments.sh 100':
 
-           2420.30 msec task-clock                       #    0.982 CPUs utilized             
-              6846      context-switches                 #    2.829 K/sec                     
+            273.06 msec task-clock                       #    0.774 CPUs utilized             
+              1147      context-switches                 #    4.200 K/sec                     
                  0      cpu-migrations                   #    0.000 /sec                      
-             73305      page-faults                      #   30.288 K/sec                     
+             41914      page-faults                      #  153.495 K/sec                     
    <not supported>      cycles                                                                
    <not supported>      instructions                                                          
    <not supported>      branches                                                              
    <not supported>      branch-misses                                                         
 
-       2.464522392 seconds time elapsed
+       0.352927528 seconds time elapsed
 
-       2.211886000 seconds user
-       0.208298000 seconds sys
+       0.188907000 seconds user
+       0.090890000 seconds sys
 
 
