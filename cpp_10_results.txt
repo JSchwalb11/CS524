@@ -1,49 +1,349 @@
 Runs = 10
 BEGIN - Binary Search
+Run 1
+Searching for 524288
+You searched for 524288 but the value was not found.
 
-real	0m0.022s
-user	0m0.014s
-sys	0m0.007s
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 2
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 3
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 4
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 5
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 6
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 7
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 8
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 9
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 10
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
 END - Binary Search
 BEGIN - Max Pooling
+Run 1
 
-real	0m4.354s
-user	0m4.109s
-sys	0m0.231s
+real	0m0.439s
+user	0m0.416s
+sys	0m0.020s
+----------
+Run 2
+
+real	0m0.446s
+user	0m0.428s
+sys	0m0.012s
+----------
+Run 3
+
+real	0m0.440s
+user	0m0.418s
+sys	0m0.021s
+----------
+Run 4
+
+real	0m0.441s
+user	0m0.400s
+sys	0m0.040s
+----------
+Run 5
+
+real	0m0.442s
+user	0m0.401s
+sys	0m0.040s
+----------
+Run 6
+
+real	0m0.440s
+user	0m0.415s
+sys	0m0.024s
+----------
+Run 7
+
+real	0m0.441s
+user	0m0.409s
+sys	0m0.028s
+----------
+Run 8
+
+real	0m0.448s
+user	0m0.422s
+sys	0m0.024s
+----------
+Run 9
+
+real	0m0.433s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 10
+
+real	0m0.436s
+user	0m0.415s
+sys	0m0.020s
+----------
 END - Max Pooling
 BEGIN - Min Pooling
+Run 1
 
-real	0m4.338s
-user	0m4.074s
-sys	0m0.251s
+real	0m0.436s
+user	0m0.417s
+sys	0m0.016s
+----------
+Run 2
+
+real	0m0.432s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 3
+
+real	0m0.432s
+user	0m0.399s
+sys	0m0.032s
+----------
+Run 4
+
+real	0m0.432s
+user	0m0.394s
+sys	0m0.036s
+----------
+Run 5
+
+real	0m0.434s
+user	0m0.409s
+sys	0m0.024s
+----------
+Run 6
+
+real	0m0.433s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 7
+
+real	0m0.431s
+user	0m0.418s
+sys	0m0.012s
+----------
+Run 8
+
+real	0m0.436s
+user	0m0.419s
+sys	0m0.016s
+----------
+Run 9
+
+real	0m0.432s
+user	0m0.387s
+sys	0m0.044s
+----------
+Run 10
+
+real	0m0.435s
+user	0m0.414s
+sys	0m0.020s
+----------
 END - min Pooling
 BEGIN - avg Pooling
+Run 1
 
-real	0m4.212s
-user	0m3.963s
-sys	0m0.236s
+real	0m0.424s
+user	0m0.392s
+sys	0m0.028s
+----------
+Run 2
+
+real	0m0.423s
+user	0m0.393s
+sys	0m0.029s
+----------
+Run 3
+
+real	0m0.421s
+user	0m0.403s
+sys	0m0.016s
+----------
+Run 4
+
+real	0m0.420s
+user	0m0.403s
+sys	0m0.016s
+----------
+Run 5
+
+real	0m0.428s
+user	0m0.413s
+sys	0m0.012s
+----------
+Run 6
+
+real	0m0.420s
+user	0m0.395s
+sys	0m0.024s
+----------
+Run 7
+
+real	0m0.419s
+user	0m0.402s
+sys	0m0.016s
+----------
+Run 8
+
+real	0m0.419s
+user	0m0.398s
+sys	0m0.020s
+----------
+Run 9
+
+real	0m0.419s
+user	0m0.410s
+sys	0m0.008s
+----------
+Run 10
+
+real	0m0.423s
+user	0m0.383s
+sys	0m0.036s
+----------
 END - avg Pooling
 BEGIN - Sum Pooling
+Run 1
 
-real	0m4.184s
-user	0m3.964s
-sys	0m0.207s
+real	0m0.424s
+user	0m0.407s
+sys	0m0.016s
+----------
+Run 2
+
+real	0m0.427s
+user	0m0.413s
+sys	0m0.012s
+----------
+Run 3
+
+real	0m0.416s
+user	0m0.399s
+sys	0m0.016s
+----------
+Run 4
+
+real	0m0.419s
+user	0m0.402s
+sys	0m0.016s
+----------
+Run 5
+
+real	0m0.419s
+user	0m0.387s
+sys	0m0.029s
+----------
+Run 6
+
+real	0m0.418s
+user	0m0.385s
+sys	0m0.032s
+----------
+Run 7
+
+real	0m0.419s
+user	0m0.390s
+sys	0m0.028s
+----------
+Run 8
+
+real	0m0.425s
+user	0m0.399s
+sys	0m0.024s
+----------
+Run 9
+
+real	0m0.418s
+user	0m0.397s
+sys	0m0.020s
+----------
+Run 10
+
+real	0m0.420s
+user	0m0.413s
+sys	0m0.004s
+----------
 END - Sum Pooling
 
  Performance counter stats for 'bash run_cpp_experiments.sh 10':
 
-          17064.75 msec task-clock                       #    0.997 CPUs utilized             
-               700      context-switches                 #   41.020 /sec                      
+          17124.00 msec task-clock                       #    0.996 CPUs utilized             
+               843      context-switches                 #   49.229 /sec                      
                  0      cpu-migrations                   #    0.000 /sec                      
-            458469      page-faults                      #   26.866 K/sec                     
+            458669      page-faults                      #   26.785 K/sec                     
    <not supported>      cycles                                                                
    <not supported>      instructions                                                          
    <not supported>      branches                                                              
    <not supported>      branch-misses                                                         
 
-      17.117727260 seconds time elapsed
+      17.195308842 seconds time elapsed
 
-      16.129577000 seconds user
-       0.933533000 seconds sys
+      16.203028000 seconds user
+       0.917663000 seconds sys
 
 
