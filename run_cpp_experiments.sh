@@ -9,13 +9,6 @@ fi
 
 echo "Runs = $runs"
 
-cd C++
-g++ --std=c++17 cpp_experiments.cpp -o cpp_experiments
-g++ min.cpp -o min
-g++ max.cpp -o max
-g++ avg.cpp -o avg
-g++ sum.cpp -o sum
-
 echo "BEGIN - Binary Search"
 time (for i in $(seq 1 $runs); do
   ./cpp_experiments
