@@ -1,0 +1,49 @@
+Runs = 1
+BEGIN - Java Binary Search
+
+real	0m0.428s
+user	0m0.364s
+sys	0m0.056s
+END - Java Binary Search
+BEGIN - Java Sum Pooling
+
+real	0m0.497s
+user	0m0.446s
+sys	0m0.042s
+END - Java Sum Pooling
+BEGIN - Java Min Pooling
+
+real	0m0.520s
+user	0m0.480s
+sys	0m0.032s
+END - Java Min Pooling
+BEGIN - Java Max Pooling
+
+real	0m0.508s
+user	0m0.468s
+sys	0m0.032s
+END - Java Max Pooling
+BEGIN - Java Avg Pooling
+
+real	0m0.497s
+user	0m0.430s
+sys	0m0.059s
+END - Java Avg Pooling
+
+ Performance counter stats for 'bash run_java_experiments.sh 1':
+
+           2415.03 msec task-clock                       #    0.983 CPUs utilized             
+              6792      context-switches                 #    2.812 K/sec                     
+                 0      cpu-migrations                   #    0.000 /sec                      
+             73291      page-faults                      #   30.348 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+       2.456472166 seconds time elapsed
+
+       2.193199000 seconds user
+       0.221656000 seconds sys
+
+
