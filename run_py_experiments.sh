@@ -9,13 +9,13 @@ fi
 
 echo "Runs = $runs"
 
-echo "BEGIN - Python Binary Search"
+echo "BEGIN - Binary Search"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time python3 Python/py_experiments.py
   echo "----------"
 done
-echo "END - Python Binary Search"
+echo "END - Binary Search"
 
 echo "BEGIN - Python Sum"
 for i in $(seq 1 $runs); do
@@ -23,17 +23,17 @@ for i in $(seq 1 $runs); do
   time time python3 Python/sum.py
   echo "----------"
 done
-echo "END - Python Sum"
+echo "END - Sum"
 
-echo "BEGIN - Python Avg"
+echo "BEGIN - Avg"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time python3 Python/avg.py
   echo "----------"
 done
-echo "END - Python Avg"
+echo "END - Avg"
 
-echo "BEGIN - Python Min"
+echo "BEGIN - Min"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time python3 Python/min.py
@@ -41,10 +41,19 @@ for i in $(seq 1 $runs); do
 done
 echo "END - Python Min"
 
-echo "BEGIN - Python Max"
+echo "BEGIN - Max"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time python3 Python/max.py
   echo "----------"
 done
-echo "END - Python Max"
+echo "END - Max"
+
+echo "BEGIN - Linear"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/linear.py
+  echo "----------"
+done
+echo "END - Linear"
+
