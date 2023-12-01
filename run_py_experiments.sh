@@ -9,21 +9,21 @@ fi
 
 echo "Runs = $runs"
 
-# echo "BEGIN - Python Binary Search"
-# for i in $(seq 1 $runs); do
-#   echo "Run $i"
-#   time python3 Python/py_experiments.py
-#   echo "----------"
-# done
-# echo "END - Python Binary Search"
+echo "BEGIN - Python Binary Search"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/py_experiments.py
+  echo "----------"
+done
+echo "END - Python Binary Search"
 
-# echo "BEGIN - Python Sum"
-# for i in $(seq 1 $runs); do
-#   echo "Run $i"
-#   time time python3 Python/sum.py
-#   echo "----------"
-# done
-# echo "END - Python Sum"
+echo "BEGIN - Python Sum"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time time python3 Python/sum.py
+  echo "----------"
+done
+echo "END - Python Sum"
 
 echo "BEGIN - Python Avg"
 for i in $(seq 1 $runs); do
@@ -33,18 +33,18 @@ for i in $(seq 1 $runs); do
 done
 echo "END - Python Avg"
 
-# echo "BEGIN - Python Min"
-# for i in $(seq 1 $runs); do
-#   echo "Run $i"
-#   time python3 Python/min.py
-#   echo "----------"
-# done
-# echo "END - Python Min"
+echo "BEGIN - Python Min"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/min.py
+  echo "----------"
+done
+echo "END - Python Min"
 
-# echo "BEGIN - Python Max"
-# for i in $(seq 1 $runs); do
-#   echo "Run $i"
-#   time python3 Python/max.py
-#   echo "----------"
-# done
-# echo "END - Python Max"
+echo "BEGIN - Python Max"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time python3 Python/max.py
+  echo "----------"
+done
+echo "END - Python Max"
