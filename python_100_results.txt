@@ -1,19 +1,1643 @@
-bash: run_python_experiments.sh: No such file or directory
+Runs = 100
+BEGIN - Python Binary Search
+Run 1
+Found value in 20 guesses
 
- Performance counter stats for 'bash run_python_experiments.sh 100':
-
-              1.41 msec task-clock                       #    0.732 CPUs utilized             
-                 1      context-switches                 #  710.194 /sec                      
-                 0      cpu-migrations                   #    0.000 /sec                      
-               138      page-faults                      #   98.007 K/sec                     
-   <not supported>      cycles                                                                
-   <not supported>      instructions                                                          
-   <not supported>      branches                                                              
-   <not supported>      branch-misses                                                         
-
-       0.001923083 seconds time elapsed
-
-       0.001743000 seconds user
-       0.000000000 seconds sys
+Found value 524289 at index 524288
 
 
+real	0m0.571s
+user	0m0.420s
+sys	0m0.084s
+----------
+Run 2
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.516s
+user	0m0.432s
+sys	0m0.067s
+----------
+Run 3
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.443s
+sys	0m0.052s
+----------
+Run 4
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.494s
+user	0m0.408s
+sys	0m0.083s
+----------
+Run 5
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.419s
+sys	0m0.076s
+----------
+Run 6
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.502s
+user	0m0.388s
+sys	0m0.111s
+----------
+Run 7
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.447s
+sys	0m0.053s
+----------
+Run 8
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.397s
+sys	0m0.100s
+----------
+Run 9
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.421s
+sys	0m0.072s
+----------
+Run 10
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.497s
+user	0m0.406s
+sys	0m0.088s
+----------
+Run 11
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.506s
+user	0m0.436s
+sys	0m0.064s
+----------
+Run 12
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.506s
+user	0m0.422s
+sys	0m0.081s
+----------
+Run 13
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.518s
+user	0m0.443s
+sys	0m0.072s
+----------
+Run 14
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.504s
+user	0m0.405s
+sys	0m0.096s
+----------
+Run 15
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.506s
+user	0m0.428s
+sys	0m0.073s
+----------
+Run 16
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.516s
+user	0m0.420s
+sys	0m0.093s
+----------
+Run 17
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.413s
+sys	0m0.085s
+----------
+Run 18
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.380s
+sys	0m0.117s
+----------
+Run 19
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.507s
+user	0m0.453s
+sys	0m0.049s
+----------
+Run 20
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.514s
+user	0m0.427s
+sys	0m0.085s
+----------
+Run 21
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.494s
+user	0m0.427s
+sys	0m0.065s
+----------
+Run 22
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.424s
+sys	0m0.074s
+----------
+Run 23
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.414s
+sys	0m0.078s
+----------
+Run 24
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.408s
+sys	0m0.087s
+----------
+Run 25
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.504s
+user	0m0.424s
+sys	0m0.076s
+----------
+Run 26
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.440s
+sys	0m0.057s
+----------
+Run 27
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.495s
+user	0m0.418s
+sys	0m0.072s
+----------
+Run 28
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.497s
+user	0m0.429s
+sys	0m0.065s
+----------
+Run 29
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.494s
+user	0m0.435s
+sys	0m0.057s
+----------
+Run 30
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.497s
+user	0m0.409s
+sys	0m0.084s
+----------
+Run 31
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.423s
+sys	0m0.073s
+----------
+Run 32
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.412s
+sys	0m0.084s
+----------
+Run 33
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.494s
+user	0m0.417s
+sys	0m0.073s
+----------
+Run 34
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.514s
+user	0m0.454s
+sys	0m0.056s
+----------
+Run 35
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.434s
+sys	0m0.060s
+----------
+Run 36
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.503s
+user	0m0.379s
+sys	0m0.121s
+----------
+Run 37
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.420s
+sys	0m0.077s
+----------
+Run 38
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.417s
+sys	0m0.081s
+----------
+Run 39
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.506s
+user	0m0.403s
+sys	0m0.097s
+----------
+Run 40
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.502s
+user	0m0.423s
+sys	0m0.077s
+----------
+Run 41
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.407s
+sys	0m0.089s
+----------
+Run 42
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.510s
+user	0m0.431s
+sys	0m0.076s
+----------
+Run 43
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.503s
+user	0m0.394s
+sys	0m0.103s
+----------
+Run 44
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.417s
+sys	0m0.080s
+----------
+Run 45
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.431s
+sys	0m0.065s
+----------
+Run 46
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.504s
+user	0m0.421s
+sys	0m0.080s
+----------
+Run 47
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.509s
+user	0m0.397s
+sys	0m0.107s
+----------
+Run 48
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.438s
+sys	0m0.065s
+----------
+Run 49
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.424s
+sys	0m0.072s
+----------
+Run 50
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.405s
+sys	0m0.092s
+----------
+Run 51
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.435s
+sys	0m0.060s
+----------
+Run 52
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.502s
+user	0m0.410s
+sys	0m0.088s
+----------
+Run 53
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.497s
+user	0m0.426s
+sys	0m0.069s
+----------
+Run 54
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.513s
+user	0m0.425s
+sys	0m0.085s
+----------
+Run 55
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.431s
+sys	0m0.068s
+----------
+Run 56
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.460s
+sys	0m0.037s
+----------
+Run 57
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.405s
+sys	0m0.088s
+----------
+Run 58
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.444s
+sys	0m0.053s
+----------
+Run 59
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.428s
+sys	0m0.065s
+----------
+Run 60
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.502s
+user	0m0.419s
+sys	0m0.080s
+----------
+Run 61
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.495s
+user	0m0.431s
+sys	0m0.061s
+----------
+Run 62
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.428s
+sys	0m0.068s
+----------
+Run 63
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.442s
+sys	0m0.057s
+----------
+Run 64
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.497s
+user	0m0.426s
+sys	0m0.068s
+----------
+Run 65
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.426s
+sys	0m0.068s
+----------
+Run 66
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.425s
+sys	0m0.068s
+----------
+Run 67
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.395s
+sys	0m0.100s
+----------
+Run 68
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.441s
+sys	0m0.053s
+----------
+Run 69
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.445s
+sys	0m0.049s
+----------
+Run 70
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.494s
+user	0m0.427s
+sys	0m0.065s
+----------
+Run 71
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.498s
+user	0m0.440s
+sys	0m0.052s
+----------
+Run 72
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.401s
+sys	0m0.092s
+----------
+Run 73
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.492s
+user	0m0.432s
+sys	0m0.057s
+----------
+Run 74
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.496s
+user	0m0.408s
+sys	0m0.084s
+----------
+Run 75
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.525s
+user	0m0.466s
+sys	0m0.052s
+----------
+Run 76
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.424s
+sys	0m0.077s
+----------
+Run 77
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.409s
+sys	0m0.089s
+----------
+Run 78
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.503s
+user	0m0.412s
+sys	0m0.089s
+----------
+Run 79
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.505s
+user	0m0.406s
+sys	0m0.092s
+----------
+Run 80
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.506s
+user	0m0.430s
+sys	0m0.073s
+----------
+Run 81
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.509s
+user	0m0.433s
+sys	0m0.072s
+----------
+Run 82
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.504s
+user	0m0.420s
+sys	0m0.080s
+----------
+Run 83
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.501s
+user	0m0.438s
+sys	0m0.057s
+----------
+Run 84
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.493s
+user	0m0.398s
+sys	0m0.092s
+----------
+Run 85
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.513s
+user	0m0.427s
+sys	0m0.070s
+----------
+Run 86
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.510s
+user	0m0.430s
+sys	0m0.072s
+----------
+Run 87
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.524s
+user	0m0.430s
+sys	0m0.068s
+----------
+Run 88
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.515s
+user	0m0.422s
+sys	0m0.085s
+----------
+Run 89
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.503s
+user	0m0.428s
+sys	0m0.069s
+----------
+Run 90
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.514s
+user	0m0.416s
+sys	0m0.079s
+----------
+Run 91
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.516s
+user	0m0.413s
+sys	0m0.088s
+----------
+Run 92
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.523s
+user	0m0.413s
+sys	0m0.088s
+----------
+Run 93
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.499s
+user	0m0.403s
+sys	0m0.088s
+----------
+Run 94
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.502s
+user	0m0.408s
+sys	0m0.088s
+----------
+Run 95
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.535s
+user	0m0.408s
+sys	0m0.105s
+----------
+Run 96
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.500s
+user	0m0.396s
+sys	0m0.097s
+----------
+Run 97
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.521s
+user	0m0.434s
+sys	0m0.064s
+----------
+Run 98
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.503s
+user	0m0.410s
+sys	0m0.084s
+----------
+Run 99
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.510s
+user	0m0.425s
+sys	0m0.076s
+----------
+Run 100
+Found value in 20 guesses
+
+Found value 524289 at index 524288
+
+
+real	0m0.519s
+user	0m0.444s
+sys	0m0.056s
+----------
+END - Python Binary Search
+BEGIN - Python Sum
+Run 1
+
+real	0m13.403s
+user	0m13.123s
+sys	0m0.072s
+----------
+Run 2
+
+real	0m11.780s
+user	0m11.637s
+sys	0m0.104s
+----------
+Run 3
+
+real	0m11.992s
+user	0m11.896s
+sys	0m0.052s
+----------
+Run 4
+
+real	0m12.103s
+user	0m11.980s
+sys	0m0.080s
+----------
+Run 5
+
+real	0m11.769s
+user	0m11.658s
+sys	0m0.068s
+----------
+Run 6
+
+real	0m11.919s
+user	0m11.813s
+sys	0m0.060s
+----------
+Run 7
+
+real	0m11.688s
+user	0m11.604s
+sys	0m0.040s
+----------
+Run 8
+
+real	0m12.366s
+user	0m12.237s
+sys	0m0.084s
+----------
+Run 9
+
+real	0m17.449s
+user	0m17.314s
+sys	0m0.068s
+----------
+Run 10
+
+real	0m12.143s
+user	0m12.030s
+sys	0m0.068s
+----------
+Run 11
+
+real	0m12.052s
+user	0m11.947s
+sys	0m0.056s
+----------
+Run 12
+
+real	0m13.021s
+user	0m12.925s
+sys	0m0.048s
+----------
+Run 13
+
+real	0m13.888s
+user	0m13.768s
+sys	0m0.064s
+----------
+Run 14
+
+real	0m14.818s
+user	0m14.706s
+sys	0m0.052s
+----------
+Run 15
+
+real	0m12.441s
+user	0m12.296s
+sys	0m0.052s
+----------
+Run 16
+
+real	0m13.145s
+user	0m13.055s
+sys	0m0.044s
+----------
+Run 17
+
+real	0m11.901s
+user	0m11.810s
+sys	0m0.048s
+----------
+Run 18
+
+real	0m12.810s
+user	0m12.692s
+sys	0m0.048s
+----------
+Run 19
+
+real	0m13.372s
+user	0m12.991s
+sys	0m0.088s
+----------
+Run 20
+
+real	0m12.180s
+user	0m11.832s
+sys	0m0.068s
+----------
+Run 21
+
+real	0m11.907s
+user	0m11.727s
+sys	0m0.060s
+----------
+Run 22
+
+real	0m14.762s
+user	0m14.654s
+sys	0m0.034s
+----------
+Run 23
+
+real	1m41.196s
+user	1m40.336s
+sys	0m0.337s
+----------
+Run 24
+
+real	0m11.852s
+user	0m11.763s
+sys	0m0.052s
+----------
+Run 25
+
+real	1m3.692s
+user	1m2.955s
+sys	0m0.285s
+----------
+Run 26
+
+real	2m10.590s
+user	2m8.960s
+sys	0m0.427s
+----------
+Run 27
+
+real	2m12.208s
+user	2m10.866s
+sys	0m0.547s
+----------
+Run 28
+
+real	2m13.104s
+user	2m11.694s
+sys	0m0.386s
+----------
+Run 29
+
+real	2m11.840s
+user	2m10.393s
+sys	0m0.691s
+----------
+Run 30
+
+real	2m20.952s
+user	2m19.227s
+sys	0m0.629s
+----------
+Run 31
+
+real	2m13.634s
+user	2m12.420s
+sys	0m0.529s
+----------
+Run 32
+
+real	2m33.117s
+user	2m31.651s
+sys	0m0.508s
+----------
+Run 33
+
+real	2m10.993s
+user	2m10.034s
+sys	0m0.306s
+----------
+Run 34
+
+real	2m12.691s
+user	2m10.798s
+sys	0m0.447s
+----------
+Run 35
+
+real	2m16.967s
+user	2m15.805s
+sys	0m0.428s
+----------
+Run 36
+
+real	2m16.912s
+user	2m15.509s
+sys	0m0.468s
+----------
+Run 37
+
+real	2m9.690s
+user	2m8.479s
+sys	0m0.426s
+----------
+Run 38
+
+real	2m23.071s
+user	2m21.786s
+sys	0m0.508s
+----------
+Run 39
+
+real	2m15.989s
+user	2m14.734s
+sys	0m0.407s
+----------
+Run 40
+
+real	2m2.760s
+user	1m59.994s
+sys	0m0.450s
+----------
+Run 41
+
+real	1m25.256s
+user	1m21.383s
+sys	0m0.307s
+----------
+Run 42
+
+real	2m9.923s
+user	2m8.610s
+sys	0m0.448s
+----------
+Run 43
+
+real	2m9.329s
+user	2m7.824s
+sys	0m0.507s
+----------
+Run 44
+
+real	2m18.442s
+user	2m16.684s
+sys	0m0.467s
+----------
+Run 45
+
+real	2m30.470s
+user	2m29.101s
+sys	0m0.324s
+----------
+Run 46
+
+real	2m12.006s
+user	2m10.774s
+sys	0m0.406s
+----------
+Run 47
+
+real	2m17.524s
+user	2m16.224s
+sys	0m0.488s
+----------
+Run 48
+
+real	2m9.304s
+user	2m8.208s
+sys	0m0.386s
+----------
+Run 49
+
+real	2m12.888s
+user	2m11.546s
+sys	0m0.508s
+----------
+Run 50
+
+real	2m15.842s
+user	2m14.419s
+sys	0m0.467s
+----------
+Run 51
+
+real	2m12.232s
+user	2m11.027s
+sys	0m0.447s
+----------
+Run 52
+
+real	2m12.387s
+user	2m11.251s
+sys	0m0.386s
+----------
+Run 53
+
+real	2m27.579s
+user	2m26.179s
+sys	0m0.467s
+----------
+Run 54
+
+real	2m11.744s
+user	2m10.376s
+sys	0m0.509s
+----------
+Run 55
+
+real	2m7.429s
+user	2m6.148s
+sys	0m0.527s
+----------
+Run 56
+
+real	2m10.041s
+user	2m9.080s
+sys	0m0.352s
+----------
+Run 57
+
+real	1m2.214s
+user	1m1.389s
+sys	0m0.366s
+----------
+Run 58
+
+real	2m6.378s
+user	2m4.943s
+sys	0m0.405s
+----------
+Run 59
+
+real	2m31.145s
+user	2m29.684s
+sys	0m0.447s
+----------
+Run 60
+
+real	2m7.548s
+user	2m6.321s
+sys	0m0.447s
+----------
+Run 61
+
+real	2m10.803s
+user	2m9.536s
+sys	0m0.398s
+----------
+Run 62
+
+real	2m13.413s
+user	2m12.182s
+sys	0m0.398s
+----------
+Run 63
+
+real	2m15.397s
+user	2m14.102s
+sys	0m0.541s
+----------
+Run 64
+
+real	2m9.225s
+user	2m8.104s
+sys	0m0.345s
+----------
+Run 65
+
+real	2m16.337s
+user	2m15.090s
+sys	0m0.448s
+----------
+Run 66
+
+real	2m41.529s
+user	2m39.864s
+sys	0m0.486s
+----------
+Run 67
+
+real	2m5.326s
+user	2m3.953s
+sys	0m0.527s
+----------
+Run 68
+
+real	2m11.668s
+user	2m10.439s
+sys	0m0.406s
+----------
+Run 69
+
+real	2m7.085s
+user	2m5.504s
+sys	0m0.546s
+----------
+Run 70
+
+real	2m19.132s
+user	2m17.799s
+sys	0m0.506s
+----------
+Run 71
+
+real	3m0.388s
+user	2m58.323s
+sys	0m0.509s
+----------
+Run 72
+
+real	1m42.563s
+user	1m41.550s
+sys	0m0.409s
+----------
+Run 73
+
+real	1m17.211s
+user	1m16.322s
+sys	0m0.310s
+----------
+Run 74
+
+real	2m11.097s
+user	2m9.982s
+sys	0m0.366s
+----------
+Run 75
+
+real	2m17.520s
+user	2m14.807s
+sys	0m0.427s
+----------
+Run 76
+
+real	2m10.113s
+user	2m8.794s
+sys	0m0.487s
+----------
+Run 77
+
+real	2m10.109s
+user	2m7.882s
+sys	0m0.486s
+----------
+Run 78
+
+real	2m17.584s
+user	2m16.423s
+sys	0m0.387s
+----------
+Run 79
+
+real	2m27.570s
+user	2m26.287s
+sys	0m0.427s
+----------
+Run 80
+
+real	2m24.844s
+user	2m22.932s
+sys	0m0.506s
+----------
+Run 81
+
+real	2m12.288s
+user	2m11.241s
+sys	0m0.509s
+----------
+Run 82
+
+real	2m23.211s
+user	2m21.740s
+sys	0m0.398s
+----------
+Run 83
+
+real	2m18.827s
+user	2m17.270s
+sys	0m0.528s
+----------
+Run 84
+
+real	2m12.505s
+user	2m11.287s
+sys	0m0.507s
+----------
+Run 85
+
+real	2m18.647s
+user	2m16.901s
+sys	0m0.486s
+----------
+Run 86
+
+real	2m11.367s
+user	2m10.262s
+sys	0m0.346s
+----------
+Run 87
+
+real	2m10.364s
+user	2m9.304s
+sys	0m0.531s
+----------
+Run 88
+
+real	2m52.910s
+user	2m51.286s
+sys	0m0.528s
+----------
+Run 89
+
+real	2m12.204s
+user	2m11.196s
+sys	0m0.406s
+----------
+Run 90
+
+real	1m50.457s
+user	1m49.406s
+sys	0m0.568s
+----------
+Run 91
+
+real	1m14.347s
+user	1m13.787s
+sys	0m0.160s
+----------
+Run 92
+
+real	2m10.362s
+user	2m9.167s
+sys	0m0.447s
+----------
+Run 93
+
+real	2m8.695s
+user	2m7.494s
+sys	0m0.325s
+----------
+Run 94
+
+real	2m26.230s
+user	2m24.796s
+sys	0m0.406s
+----------
+Run 95
+
+real	2m35.344s
+user	2m33.840s
+sys	0m0.447s
+----------
+Run 96
+
+real	2m26.103s
+user	2m24.127s
+sys	0m0.547s
+----------
+Run 97
+
+real	2m27.377s
+user	2m26.066s
+sys	0m0.447s
+----------
+Run 98
+
+real	2m12.307s
+user	2m10.709s
+sys	0m0.547s
+----------
+Run 99
+
+real	2m26.396s
+user	2m25.170s
+sys	0m0.429s
+----------
+Run 100
+
+real	2m8.838s
+user	2m8.374s
+sys	0m0.345s
+----------
+END - Python Sum
+BEGIN - Python Avg
+Run 1
+
+real	3m28.582s
+user	3m28.014s
+sys	0m0.263s
+----------
+Run 2
+
+real	3m33.188s
+user	3m28.298s
+sys	0m0.378s
+----------
+Run 3
+
+real	3m42.818s
+user	3m42.357s
+sys	0m0.242s
+----------
+Run 4
+
+real	3m12.467s
+user	3m12.012s
+sys	0m0.357s
+----------
+Run 5
+
+real	3m40.952s
+user	3m40.446s
+sys	0m0.324s
+----------
+Run 6
+
+real	1m38.362s
+user	1m38.041s
+sys	0m0.247s
+----------
+Run 7
