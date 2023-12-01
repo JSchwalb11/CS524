@@ -65,4 +65,4 @@ for i in $(seq 1 $runs); do
   echo "----------"
 done
 
-echo "END - Sum Pooling"
+echo "END - Linear Pooling"
