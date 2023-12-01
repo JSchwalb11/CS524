@@ -1,15 +1,3831 @@
-Error:
-Access to performance monitoring and observability operations is limited.
-Consider adjusting /proc/sys/kernel/perf_event_paranoid setting to open
-access to performance monitoring and observability operations for processes
-without CAP_PERFMON, CAP_SYS_PTRACE or CAP_SYS_ADMIN Linux capability.
-More information can be found at 'Perf events and tool security' document:
-https://www.kernel.org/doc/html/latest/admin-guide/perf-security.html
-perf_event_paranoid setting is 4:
-  -1: Allow use of (almost) all events by all users
-      Ignore mlock limit after perf_event_mlock_kb without CAP_IPC_LOCK
->= 0: Disallow raw and ftrace function tracepoint access
->= 1: Disallow CPU event access
->= 2: Disallow kernel profiling
-To make the adjusted perf_event_paranoid setting permanent preserve it
-in /etc/sysctl.conf (e.g. kernel.perf_event_paranoid = <setting>)
+Runs = 100
+BEGIN - Binary Search
+Run 1
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 2
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 3
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 4
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 5
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 6
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 7
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 8
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 9
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 10
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 11
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 12
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 13
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 14
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 15
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 16
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 17
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 18
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 19
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 20
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 21
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 22
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 23
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 24
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 25
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 26
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 27
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 28
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 29
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 30
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 31
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 32
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 33
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 34
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 35
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 36
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 37
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 38
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 39
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 40
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 41
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 42
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 43
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 44
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 45
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 46
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 47
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 48
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 49
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 50
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 51
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 52
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 53
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 54
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 55
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 56
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 57
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 58
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 59
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 60
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 61
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 62
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 63
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 64
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 65
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 66
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 67
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 68
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 69
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 70
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 71
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 72
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 73
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 74
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 75
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 76
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 77
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 78
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 79
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 80
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 81
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 82
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 83
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 84
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 85
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 86
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 87
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 88
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 89
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 90
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 91
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 92
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 93
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 94
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 95
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 96
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+----------
+Run 97
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 98
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+----------
+Run 99
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+Run 100
+Searching for 524288
+You searched for 524288 but the value was not found.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+----------
+END - Binary Search
+BEGIN - Max Pooling
+Run 1
+
+real	0m0.434s
+user	0m0.410s
+sys	0m0.024s
+----------
+Run 2
+
+real	0m0.436s
+user	0m0.415s
+sys	0m0.020s
+----------
+Run 3
+
+real	0m0.434s
+user	0m0.414s
+sys	0m0.020s
+----------
+Run 4
+
+real	0m0.441s
+user	0m0.413s
+sys	0m0.028s
+----------
+Run 5
+
+real	0m0.434s
+user	0m0.422s
+sys	0m0.012s
+----------
+Run 6
+
+real	0m0.431s
+user	0m0.419s
+sys	0m0.012s
+----------
+Run 7
+
+real	0m0.434s
+user	0m0.398s
+sys	0m0.036s
+----------
+Run 8
+
+real	0m0.432s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 9
+
+real	0m0.432s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 10
+
+real	0m0.430s
+user	0m0.413s
+sys	0m0.016s
+----------
+Run 11
+
+real	0m0.432s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 12
+
+real	0m0.428s
+user	0m0.400s
+sys	0m0.028s
+----------
+Run 13
+
+real	0m0.428s
+user	0m0.424s
+sys	0m0.004s
+----------
+Run 14
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 15
+
+real	0m0.433s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 16
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 17
+
+real	0m0.433s
+user	0m0.402s
+sys	0m0.032s
+----------
+Run 18
+
+real	0m0.429s
+user	0m0.413s
+sys	0m0.016s
+----------
+Run 19
+
+real	0m0.431s
+user	0m0.419s
+sys	0m0.012s
+----------
+Run 20
+
+real	0m0.431s
+user	0m0.415s
+sys	0m0.016s
+----------
+Run 21
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 22
+
+real	0m0.432s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 23
+
+real	0m0.430s
+user	0m0.418s
+sys	0m0.012s
+----------
+Run 24
+
+real	0m0.429s
+user	0m0.410s
+sys	0m0.020s
+----------
+Run 25
+
+real	0m0.435s
+user	0m0.411s
+sys	0m0.024s
+----------
+Run 26
+
+real	0m0.433s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 27
+
+real	0m0.430s
+user	0m0.413s
+sys	0m0.016s
+----------
+Run 28
+
+real	0m0.431s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 29
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 30
+
+real	0m0.430s
+user	0m0.394s
+sys	0m0.036s
+----------
+Run 31
+
+real	0m0.433s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 32
+
+real	0m0.431s
+user	0m0.415s
+sys	0m0.016s
+----------
+Run 33
+
+real	0m0.435s
+user	0m0.419s
+sys	0m0.016s
+----------
+Run 34
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 35
+
+real	0m0.429s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 36
+
+real	0m0.429s
+user	0m0.409s
+sys	0m0.020s
+----------
+Run 37
+
+real	0m0.430s
+user	0m0.398s
+sys	0m0.032s
+----------
+Run 38
+
+real	0m0.426s
+user	0m0.406s
+sys	0m0.020s
+----------
+Run 39
+
+real	0m0.427s
+user	0m0.399s
+sys	0m0.028s
+----------
+Run 40
+
+real	0m0.435s
+user	0m0.422s
+sys	0m0.012s
+----------
+Run 41
+
+real	0m0.430s
+user	0m0.406s
+sys	0m0.024s
+----------
+Run 42
+
+real	0m0.433s
+user	0m0.417s
+sys	0m0.016s
+----------
+Run 43
+
+real	0m0.435s
+user	0m0.415s
+sys	0m0.020s
+----------
+Run 44
+
+real	0m0.432s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 45
+
+real	0m0.435s
+user	0m0.399s
+sys	0m0.036s
+----------
+Run 46
+
+real	0m0.428s
+user	0m0.423s
+sys	0m0.004s
+----------
+Run 47
+
+real	0m0.435s
+user	0m0.422s
+sys	0m0.012s
+----------
+Run 48
+
+real	0m0.432s
+user	0m0.400s
+sys	0m0.032s
+----------
+Run 49
+
+real	0m0.428s
+user	0m0.400s
+sys	0m0.028s
+----------
+Run 50
+
+real	0m0.429s
+user	0m0.393s
+sys	0m0.036s
+----------
+Run 51
+
+real	0m0.431s
+user	0m0.427s
+sys	0m0.004s
+----------
+Run 52
+
+real	0m0.431s
+user	0m0.390s
+sys	0m0.040s
+----------
+Run 53
+
+real	0m0.434s
+user	0m0.406s
+sys	0m0.028s
+----------
+Run 54
+
+real	0m0.427s
+user	0m0.407s
+sys	0m0.020s
+----------
+Run 55
+
+real	0m0.431s
+user	0m0.403s
+sys	0m0.029s
+----------
+Run 56
+
+real	0m0.434s
+user	0m0.402s
+sys	0m0.032s
+----------
+Run 57
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 58
+
+real	0m0.432s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 59
+
+real	0m0.431s
+user	0m0.391s
+sys	0m0.040s
+----------
+Run 60
+
+real	0m0.434s
+user	0m0.425s
+sys	0m0.008s
+----------
+Run 61
+
+real	0m0.433s
+user	0m0.401s
+sys	0m0.032s
+----------
+Run 62
+
+real	0m0.434s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 63
+
+real	0m0.430s
+user	0m0.406s
+sys	0m0.024s
+----------
+Run 64
+
+real	0m0.429s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 65
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 66
+
+real	0m0.432s
+user	0m0.392s
+sys	0m0.040s
+----------
+Run 67
+
+real	0m0.431s
+user	0m0.395s
+sys	0m0.036s
+----------
+Run 68
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 69
+
+real	0m0.430s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 70
+
+real	0m0.432s
+user	0m0.415s
+sys	0m0.016s
+----------
+Run 71
+
+real	0m0.432s
+user	0m0.424s
+sys	0m0.008s
+----------
+Run 72
+
+real	0m0.433s
+user	0m0.409s
+sys	0m0.024s
+----------
+Run 73
+
+real	0m0.440s
+user	0m0.404s
+sys	0m0.036s
+----------
+Run 74
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 75
+
+real	0m0.432s
+user	0m0.400s
+sys	0m0.032s
+----------
+Run 76
+
+real	0m0.432s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 77
+
+real	0m0.432s
+user	0m0.383s
+sys	0m0.048s
+----------
+Run 78
+
+real	0m0.429s
+user	0m0.400s
+sys	0m0.028s
+----------
+Run 79
+
+real	0m0.434s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 80
+
+real	0m0.447s
+user	0m0.411s
+sys	0m0.036s
+----------
+Run 81
+
+real	0m0.437s
+user	0m0.421s
+sys	0m0.016s
+----------
+Run 82
+
+real	0m0.438s
+user	0m0.418s
+sys	0m0.020s
+----------
+Run 83
+
+real	0m0.429s
+user	0m0.389s
+sys	0m0.040s
+----------
+Run 84
+
+real	0m0.427s
+user	0m0.395s
+sys	0m0.032s
+----------
+Run 85
+
+real	0m0.428s
+user	0m0.412s
+sys	0m0.016s
+----------
+Run 86
+
+real	0m0.434s
+user	0m0.410s
+sys	0m0.024s
+----------
+Run 87
+
+real	0m0.428s
+user	0m0.399s
+sys	0m0.028s
+----------
+Run 88
+
+real	0m0.433s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 89
+
+real	0m0.431s
+user	0m0.406s
+sys	0m0.024s
+----------
+Run 90
+
+real	0m0.434s
+user	0m0.407s
+sys	0m0.028s
+----------
+Run 91
+
+real	0m0.434s
+user	0m0.394s
+sys	0m0.040s
+----------
+Run 92
+
+real	0m0.431s
+user	0m0.395s
+sys	0m0.036s
+----------
+Run 93
+
+real	0m0.431s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 94
+
+real	0m0.433s
+user	0m0.421s
+sys	0m0.012s
+----------
+Run 95
+
+real	0m0.433s
+user	0m0.421s
+sys	0m0.012s
+----------
+Run 96
+
+real	0m0.430s
+user	0m0.418s
+sys	0m0.013s
+----------
+Run 97
+
+real	0m0.432s
+user	0m0.420s
+sys	0m0.012s
+----------
+Run 98
+
+real	0m0.432s
+user	0m0.392s
+sys	0m0.040s
+----------
+Run 99
+
+real	0m0.429s
+user	0m0.413s
+sys	0m0.016s
+----------
+Run 100
+
+real	0m0.436s
+user	0m0.428s
+sys	0m0.008s
+----------
+END - Max Pooling
+BEGIN - Min Pooling
+Run 1
+
+real	0m0.432s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 2
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 3
+
+real	0m0.432s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 4
+
+real	0m0.431s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 5
+
+real	0m0.432s
+user	0m0.404s
+sys	0m0.028s
+----------
+Run 6
+
+real	0m0.431s
+user	0m0.419s
+sys	0m0.012s
+----------
+Run 7
+
+real	0m0.433s
+user	0m0.384s
+sys	0m0.048s
+----------
+Run 8
+
+real	0m0.434s
+user	0m0.402s
+sys	0m0.033s
+----------
+Run 9
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 10
+
+real	0m0.433s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 11
+
+real	0m0.432s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 12
+
+real	0m0.430s
+user	0m0.398s
+sys	0m0.032s
+----------
+Run 13
+
+real	0m0.434s
+user	0m0.417s
+sys	0m0.016s
+----------
+Run 14
+
+real	0m0.433s
+user	0m0.396s
+sys	0m0.036s
+----------
+Run 15
+
+real	0m0.435s
+user	0m0.406s
+sys	0m0.028s
+----------
+Run 16
+
+real	0m0.432s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 17
+
+real	0m0.431s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 18
+
+real	0m0.431s
+user	0m0.419s
+sys	0m0.012s
+----------
+Run 19
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 20
+
+real	0m0.431s
+user	0m0.423s
+sys	0m0.008s
+----------
+Run 21
+
+real	0m0.430s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 22
+
+real	0m0.427s
+user	0m0.411s
+sys	0m0.016s
+----------
+Run 23
+
+real	0m0.426s
+user	0m0.410s
+sys	0m0.016s
+----------
+Run 24
+
+real	0m0.426s
+user	0m0.405s
+sys	0m0.021s
+----------
+Run 25
+
+real	0m0.430s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 26
+
+real	0m0.435s
+user	0m0.415s
+sys	0m0.020s
+----------
+Run 27
+
+real	0m0.432s
+user	0m0.420s
+sys	0m0.012s
+----------
+Run 28
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 29
+
+real	0m0.432s
+user	0m0.424s
+sys	0m0.008s
+----------
+Run 30
+
+real	0m0.435s
+user	0m0.407s
+sys	0m0.028s
+----------
+Run 31
+
+real	0m0.428s
+user	0m0.408s
+sys	0m0.020s
+----------
+Run 32
+
+real	0m0.433s
+user	0m0.409s
+sys	0m0.024s
+----------
+Run 33
+
+real	0m0.430s
+user	0m0.394s
+sys	0m0.036s
+----------
+Run 34
+
+real	0m0.430s
+user	0m0.398s
+sys	0m0.032s
+----------
+Run 35
+
+real	0m0.427s
+user	0m0.407s
+sys	0m0.020s
+----------
+Run 36
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 37
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 38
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 39
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 40
+
+real	0m0.436s
+user	0m0.416s
+sys	0m0.020s
+----------
+Run 41
+
+real	0m0.431s
+user	0m0.391s
+sys	0m0.040s
+----------
+Run 42
+
+real	0m0.430s
+user	0m0.398s
+sys	0m0.032s
+----------
+Run 43
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 44
+
+real	0m0.434s
+user	0m0.414s
+sys	0m0.020s
+----------
+Run 45
+
+real	0m0.435s
+user	0m0.411s
+sys	0m0.024s
+----------
+Run 46
+
+real	0m0.434s
+user	0m0.405s
+sys	0m0.028s
+----------
+Run 47
+
+real	0m0.433s
+user	0m0.409s
+sys	0m0.024s
+----------
+Run 48
+
+real	0m0.438s
+user	0m0.429s
+sys	0m0.008s
+----------
+Run 49
+
+real	0m0.431s
+user	0m0.410s
+sys	0m0.020s
+----------
+Run 50
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 51
+
+real	0m0.433s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 52
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 53
+
+real	0m0.427s
+user	0m0.419s
+sys	0m0.008s
+----------
+Run 54
+
+real	0m0.427s
+user	0m0.403s
+sys	0m0.024s
+----------
+Run 55
+
+real	0m0.432s
+user	0m0.396s
+sys	0m0.036s
+----------
+Run 56
+
+real	0m0.431s
+user	0m0.423s
+sys	0m0.008s
+----------
+Run 57
+
+real	0m0.431s
+user	0m0.406s
+sys	0m0.024s
+----------
+Run 58
+
+real	0m0.432s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 59
+
+real	0m0.432s
+user	0m0.392s
+sys	0m0.040s
+----------
+Run 60
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 61
+
+real	0m0.434s
+user	0m0.410s
+sys	0m0.024s
+----------
+Run 62
+
+real	0m0.433s
+user	0m0.409s
+sys	0m0.024s
+----------
+Run 63
+
+real	0m0.429s
+user	0m0.409s
+sys	0m0.020s
+----------
+Run 64
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 65
+
+real	0m0.426s
+user	0m0.410s
+sys	0m0.016s
+----------
+Run 66
+
+real	0m0.435s
+user	0m0.391s
+sys	0m0.044s
+----------
+Run 67
+
+real	0m0.429s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 68
+
+real	0m0.433s
+user	0m0.397s
+sys	0m0.036s
+----------
+Run 69
+
+real	0m0.433s
+user	0m0.404s
+sys	0m0.028s
+----------
+Run 70
+
+real	0m0.429s
+user	0m0.405s
+sys	0m0.024s
+----------
+Run 71
+
+real	0m0.435s
+user	0m0.402s
+sys	0m0.032s
+----------
+Run 72
+
+real	0m0.429s
+user	0m0.404s
+sys	0m0.024s
+----------
+Run 73
+
+real	0m0.432s
+user	0m0.404s
+sys	0m0.028s
+----------
+Run 74
+
+real	0m0.434s
+user	0m0.414s
+sys	0m0.020s
+----------
+Run 75
+
+real	0m0.431s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 76
+
+real	0m0.433s
+user	0m0.404s
+sys	0m0.028s
+----------
+Run 77
+
+real	0m0.433s
+user	0m0.413s
+sys	0m0.020s
+----------
+Run 78
+
+real	0m0.432s
+user	0m0.420s
+sys	0m0.012s
+----------
+Run 79
+
+real	0m0.430s
+user	0m0.410s
+sys	0m0.020s
+----------
+Run 80
+
+real	0m0.432s
+user	0m0.412s
+sys	0m0.020s
+----------
+Run 81
+
+real	0m0.429s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 82
+
+real	0m0.432s
+user	0m0.416s
+sys	0m0.016s
+----------
+Run 83
+
+real	0m0.431s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 84
+
+real	0m0.439s
+user	0m0.423s
+sys	0m0.016s
+----------
+Run 85
+
+real	0m0.429s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 86
+
+real	0m0.431s
+user	0m0.403s
+sys	0m0.028s
+----------
+Run 87
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 88
+
+real	0m0.433s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 89
+
+real	0m0.433s
+user	0m0.421s
+sys	0m0.012s
+----------
+Run 90
+
+real	0m0.429s
+user	0m0.405s
+sys	0m0.024s
+----------
+Run 91
+
+real	0m0.427s
+user	0m0.410s
+sys	0m0.016s
+----------
+Run 92
+
+real	0m0.430s
+user	0m0.414s
+sys	0m0.016s
+----------
+Run 93
+
+real	0m0.427s
+user	0m0.407s
+sys	0m0.020s
+----------
+Run 94
+
+real	0m0.426s
+user	0m0.410s
+sys	0m0.016s
+----------
+Run 95
+
+real	0m0.431s
+user	0m0.406s
+sys	0m0.025s
+----------
+Run 96
+
+real	0m0.431s
+user	0m0.410s
+sys	0m0.020s
+----------
+Run 97
+
+real	0m0.433s
+user	0m0.396s
+sys	0m0.037s
+----------
+Run 98
+
+real	0m0.435s
+user	0m0.406s
+sys	0m0.028s
+----------
+Run 99
+
+real	0m0.432s
+user	0m0.399s
+sys	0m0.032s
+----------
+Run 100
+
+real	0m0.425s
+user	0m0.388s
+sys	0m0.036s
+----------
+END - min Pooling
+BEGIN - avg Pooling
+Run 1
+
+real	0m0.419s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 2
+
+real	0m0.422s
+user	0m0.398s
+sys	0m0.024s
+----------
+Run 3
+
+real	0m0.419s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 4
+
+real	0m0.415s
+user	0m0.399s
+sys	0m0.016s
+----------
+Run 5
+
+real	0m0.416s
+user	0m0.395s
+sys	0m0.020s
+----------
+Run 6
+
+real	0m0.418s
+user	0m0.402s
+sys	0m0.016s
+----------
+Run 7
+
+real	0m0.418s
+user	0m0.393s
+sys	0m0.025s
+----------
+Run 8
+
+real	0m0.421s
+user	0m0.397s
+sys	0m0.024s
+----------
+Run 9
+
+real	0m0.420s
+user	0m0.388s
+sys	0m0.032s
+----------
+Run 10
+
+real	0m0.421s
+user	0m0.397s
+sys	0m0.024s
+----------
+Run 11
+
+real	0m0.421s
+user	0m0.393s
+sys	0m0.028s
+----------
+Run 12
+
+real	0m0.416s
+user	0m0.396s
+sys	0m0.020s
+----------
+Run 13
+
+real	0m0.420s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 14
+
+real	0m0.418s
+user	0m0.381s
+sys	0m0.036s
+----------
+Run 15
+
+real	0m0.419s
+user	0m0.394s
+sys	0m0.025s
+----------
+Run 16
+
+real	0m0.415s
+user	0m0.398s
+sys	0m0.016s
+----------
+Run 17
+
+real	0m0.415s
+user	0m0.379s
+sys	0m0.036s
+----------
+Run 18
+
+real	0m0.420s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 19
+
+real	0m0.416s
+user	0m0.391s
+sys	0m0.024s
+----------
+Run 20
+
+real	0m0.426s
+user	0m0.406s
+sys	0m0.020s
+----------
+Run 21
+
+real	0m0.418s
+user	0m0.402s
+sys	0m0.016s
+----------
+Run 22
+
+real	0m0.421s
+user	0m0.396s
+sys	0m0.024s
+----------
+Run 23
+
+real	0m0.417s
+user	0m0.393s
+sys	0m0.024s
+----------
+Run 24
+
+real	0m0.417s
+user	0m0.381s
+sys	0m0.036s
+----------
+Run 25
+
+real	0m0.416s
+user	0m0.400s
+sys	0m0.016s
+----------
+Run 26
+
+real	0m0.421s
+user	0m0.376s
+sys	0m0.044s
+----------
+Run 27
+
+real	0m0.420s
+user	0m0.400s
+sys	0m0.020s
+----------
+Run 28
+
+real	0m0.423s
+user	0m0.411s
+sys	0m0.012s
+----------
+Run 29
+
+real	0m0.415s
+user	0m0.382s
+sys	0m0.032s
+----------
+Run 30
+
+real	0m0.420s
+user	0m0.408s
+sys	0m0.012s
+----------
+Run 31
+
+real	0m0.414s
+user	0m0.394s
+sys	0m0.020s
+----------
+Run 32
+
+real	0m0.414s
+user	0m0.389s
+sys	0m0.024s
+----------
+Run 33
+
+real	0m0.415s
+user	0m0.399s
+sys	0m0.016s
+----------
+Run 34
+
+real	0m0.425s
+user	0m0.409s
+sys	0m0.016s
+----------
+Run 35
+
+real	0m0.414s
+user	0m0.402s
+sys	0m0.012s
+----------
+Run 36
+
+real	0m0.417s
+user	0m0.389s
+sys	0m0.028s
+----------
+Run 37
+
+real	0m0.416s
+user	0m0.396s
+sys	0m0.020s
+----------
+Run 38
+
+real	0m0.421s
+user	0m0.384s
+sys	0m0.036s
+----------
+Run 39
+
+real	0m0.418s
+user	0m0.389s
+sys	0m0.029s
+----------
+Run 40
+
+real	0m0.417s
+user	0m0.404s
+sys	0m0.012s
+----------
+Run 41
+
+real	0m0.420s
+user	0m0.395s
+sys	0m0.024s
+----------
+Run 42
+
+real	0m0.418s
+user	0m0.394s
+sys	0m0.024s
+----------
+Run 43
+
+real	0m0.419s
+user	0m0.398s
+sys	0m0.021s
+----------
+Run 44
+
+real	0m0.418s
+user	0m0.397s
+sys	0m0.020s
+----------
+Run 45
+
+real	0m0.417s
+user	0m0.401s
+sys	0m0.016s
+----------
+Run 46
+
+real	0m0.420s
+user	0m0.391s
+sys	0m0.028s
+----------
+Run 47
+
+real	0m0.419s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 48
+
+real	0m0.419s
+user	0m0.387s
+sys	0m0.032s
+----------
+Run 49
+
+real	0m0.417s
+user	0m0.389s
+sys	0m0.028s
+----------
+Run 50
+
+real	0m0.416s
+user	0m0.392s
+sys	0m0.024s
+----------
+Run 51
+
+real	0m0.419s
+user	0m0.391s
+sys	0m0.028s
+----------
+Run 52
+
+real	0m0.417s
+user	0m0.400s
+sys	0m0.016s
+----------
+Run 53
+
+real	0m0.415s
+user	0m0.395s
+sys	0m0.020s
+----------
+Run 54
+
+real	0m0.417s
+user	0m0.392s
+sys	0m0.024s
+----------
+Run 55
+
+real	0m0.418s
+user	0m0.378s
+sys	0m0.041s
+----------
+Run 56
+
+real	0m0.413s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 57
+
+real	0m0.419s
+user	0m0.386s
+sys	0m0.032s
+----------
+Run 58
+
+real	0m0.420s
+user	0m0.383s
+sys	0m0.036s
+----------
+Run 59
+
+real	0m0.423s
+user	0m0.406s
+sys	0m0.016s
+----------
+Run 60
+
+real	0m0.419s
+user	0m0.402s
+sys	0m0.017s
+----------
+Run 61
+
+real	0m0.422s
+user	0m0.390s
+sys	0m0.032s
+----------
+Run 62
+
+real	0m0.422s
+user	0m0.405s
+sys	0m0.016s
+----------
+Run 63
+
+real	0m0.420s
+user	0m0.392s
+sys	0m0.028s
+----------
+Run 64
+
+real	0m0.419s
+user	0m0.387s
+sys	0m0.033s
+----------
+Run 65
+
+real	0m0.417s
+user	0m0.397s
+sys	0m0.020s
+----------
+Run 66
+
+real	0m0.424s
+user	0m0.404s
+sys	0m0.020s
+----------
+Run 67
+
+real	0m0.417s
+user	0m0.385s
+sys	0m0.032s
+----------
+Run 68
+
+real	0m0.422s
+user	0m0.390s
+sys	0m0.032s
+----------
+Run 69
+
+real	0m0.425s
+user	0m0.396s
+sys	0m0.028s
+----------
+Run 70
+
+real	0m0.417s
+user	0m0.401s
+sys	0m0.016s
+----------
+Run 71
+
+real	0m0.418s
+user	0m0.401s
+sys	0m0.016s
+----------
+Run 72
+
+real	0m0.418s
+user	0m0.389s
+sys	0m0.028s
+----------
+Run 73
+
+real	0m0.417s
+user	0m0.380s
+sys	0m0.037s
+----------
+Run 74
+
+real	0m0.422s
+user	0m0.401s
+sys	0m0.020s
+----------
+Run 75
+
+real	0m0.419s
+user	0m0.379s
+sys	0m0.040s
+----------
+Run 76
+
+real	0m0.420s
+user	0m0.384s
+sys	0m0.036s
+----------
+Run 77
+
+real	0m0.416s
+user	0m0.391s
+sys	0m0.024s
+----------
+Run 78
+
+real	0m0.419s
+user	0m0.411s
+sys	0m0.008s
+----------
+Run 79
+
+real	0m0.419s
+user	0m0.402s
+sys	0m0.016s
+----------
+Run 80
+
+real	0m0.416s
+user	0m0.400s
+sys	0m0.016s
+----------
+Run 81
+
+real	0m0.416s
+user	0m0.387s
+sys	0m0.028s
+----------
+Run 82
+
+real	0m0.420s
+user	0m0.388s
+sys	0m0.032s
+----------
+Run 83
+
+real	0m0.420s
+user	0m0.400s
+sys	0m0.020s
+----------
+Run 84
+
+real	0m0.422s
+user	0m0.409s
+sys	0m0.012s
+----------
+Run 85
+
+real	0m0.422s
+user	0m0.394s
+sys	0m0.028s
+----------
+Run 86
+
+real	0m0.416s
+user	0m0.388s
+sys	0m0.028s
+----------
+Run 87
+
+real	0m0.419s
+user	0m0.391s
+sys	0m0.028s
+----------
+Run 88
+
+real	0m0.416s
+user	0m0.400s
+sys	0m0.016s
+----------
+Run 89
+
+real	0m0.417s
+user	0m0.385s
+sys	0m0.032s
+----------
+Run 90
+
+real	0m0.420s
+user	0m0.391s
+sys	0m0.028s
+----------
+Run 91
+
+real	0m0.420s
+user	0m0.403s
+sys	0m0.016s
+----------
+Run 92
+
+real	0m0.419s
+user	0m0.391s
+sys	0m0.028s
+----------
+Run 93
+
+real	0m0.418s
+user	0m0.398s
+sys	0m0.020s
+----------
+Run 94
+
+real	0m0.419s
+user	0m0.383s
+sys	0m0.036s
+----------
+Run 95
+
+real	0m0.420s
+user	0m0.396s
+sys	0m0.024s
+----------
+Run 96
+
+real	0m0.419s
+user	0m0.399s
+sys	0m0.020s
+----------
+Run 97
+
+real	0m0.417s
+user	0m0.389s
+sys	0m0.028s
+----------
+Run 98
+
+real	0m0.415s
+user	0m0.383s
+sys	0m0.032s
+----------
+Run 99
+
+real	0m0.415s
+user	0m0.387s
+sys	0m0.028s
+----------
+Run 100
+
+real	0m0.417s
+user	0m0.381s
+sys	0m0.036s
+----------
+END - avg Pooling
+BEGIN - Sum Pooling
+Run 1
+
+real	0m0.410s
+user	0m0.394s
+sys	0m0.016s
+----------
+Run 2
+
+real	0m0.413s
+user	0m0.401s
+sys	0m0.012s
+----------
+Run 3
+
+real	0m0.413s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 4
+
+real	0m0.412s
+user	0m0.408s
+sys	0m0.004s
+----------
+Run 5
+
+real	0m0.412s
+user	0m0.396s
+sys	0m0.016s
+----------
+Run 6
+
+real	0m0.416s
+user	0m0.376s
+sys	0m0.040s
+----------
+Run 7
+
+real	0m0.412s
+user	0m0.387s
+sys	0m0.024s
+----------
+Run 8
+
+real	0m0.411s
+user	0m0.390s
+sys	0m0.020s
+----------
+Run 9
+
+real	0m0.414s
+user	0m0.386s
+sys	0m0.028s
+----------
+Run 10
+
+real	0m0.414s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 11
+
+real	0m0.413s
+user	0m0.408s
+sys	0m0.004s
+----------
+Run 12
+
+real	0m0.414s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 13
+
+real	0m0.412s
+user	0m0.372s
+sys	0m0.040s
+----------
+Run 14
+
+real	0m0.416s
+user	0m0.391s
+sys	0m0.024s
+----------
+Run 15
+
+real	0m0.412s
+user	0m0.380s
+sys	0m0.032s
+----------
+Run 16
+
+real	0m0.410s
+user	0m0.386s
+sys	0m0.024s
+----------
+Run 17
+
+real	0m0.411s
+user	0m0.383s
+sys	0m0.029s
+----------
+Run 18
+
+real	0m0.410s
+user	0m0.390s
+sys	0m0.021s
+----------
+Run 19
+
+real	0m0.411s
+user	0m0.375s
+sys	0m0.036s
+----------
+Run 20
+
+real	0m0.411s
+user	0m0.379s
+sys	0m0.032s
+----------
+Run 21
+
+real	0m0.412s
+user	0m0.392s
+sys	0m0.020s
+----------
+Run 22
+
+real	0m0.411s
+user	0m0.403s
+sys	0m0.008s
+----------
+Run 23
+
+real	0m0.413s
+user	0m0.396s
+sys	0m0.016s
+----------
+Run 24
+
+real	0m0.414s
+user	0m0.393s
+sys	0m0.021s
+----------
+Run 25
+
+real	0m0.414s
+user	0m0.401s
+sys	0m0.012s
+----------
+Run 26
+
+real	0m0.411s
+user	0m0.391s
+sys	0m0.021s
+----------
+Run 27
+
+real	0m0.413s
+user	0m0.381s
+sys	0m0.032s
+----------
+Run 28
+
+real	0m0.414s
+user	0m0.386s
+sys	0m0.028s
+----------
+Run 29
+
+real	0m0.412s
+user	0m0.384s
+sys	0m0.028s
+----------
+Run 30
+
+real	0m0.412s
+user	0m0.396s
+sys	0m0.016s
+----------
+Run 31
+
+real	0m0.413s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 32
+
+real	0m0.413s
+user	0m0.385s
+sys	0m0.028s
+----------
+Run 33
+
+real	0m0.413s
+user	0m0.377s
+sys	0m0.037s
+----------
+Run 34
+
+real	0m0.410s
+user	0m0.374s
+sys	0m0.036s
+----------
+Run 35
+
+real	0m0.408s
+user	0m0.379s
+sys	0m0.028s
+----------
+Run 36
+
+real	0m0.415s
+user	0m0.386s
+sys	0m0.029s
+----------
+Run 37
+
+real	0m0.413s
+user	0m0.376s
+sys	0m0.037s
+----------
+Run 38
+
+real	0m0.414s
+user	0m0.390s
+sys	0m0.024s
+----------
+Run 39
+
+real	0m0.413s
+user	0m0.369s
+sys	0m0.044s
+----------
+Run 40
+
+real	0m0.413s
+user	0m0.377s
+sys	0m0.036s
+----------
+Run 41
+
+real	0m0.409s
+user	0m0.388s
+sys	0m0.020s
+----------
+Run 42
+
+real	0m0.408s
+user	0m0.376s
+sys	0m0.032s
+----------
+Run 43
+
+real	0m0.416s
+user	0m0.392s
+sys	0m0.024s
+----------
+Run 44
+
+real	0m0.411s
+user	0m0.375s
+sys	0m0.037s
+----------
+Run 45
+
+real	0m0.415s
+user	0m0.379s
+sys	0m0.036s
+----------
+Run 46
+
+real	0m0.415s
+user	0m0.395s
+sys	0m0.020s
+----------
+Run 47
+
+real	0m0.414s
+user	0m0.397s
+sys	0m0.016s
+----------
+Run 48
+
+real	0m0.415s
+user	0m0.391s
+sys	0m0.024s
+----------
+Run 49
+
+real	0m0.416s
+user	0m0.375s
+sys	0m0.040s
+----------
+Run 50
+
+real	0m0.412s
+user	0m0.400s
+sys	0m0.012s
+----------
+Run 51
+
+real	0m0.409s
+user	0m0.397s
+sys	0m0.012s
+----------
+Run 52
+
+real	0m0.409s
+user	0m0.381s
+sys	0m0.028s
+----------
+Run 53
+
+real	0m0.416s
+user	0m0.376s
+sys	0m0.040s
+----------
+Run 54
+
+real	0m0.413s
+user	0m0.392s
+sys	0m0.020s
+----------
+Run 55
+
+real	0m0.417s
+user	0m0.396s
+sys	0m0.020s
+----------
+Run 56
+
+real	0m0.415s
+user	0m0.399s
+sys	0m0.016s
+----------
+Run 57
+
+real	0m0.414s
+user	0m0.386s
+sys	0m0.028s
+----------
+Run 58
+
+real	0m0.414s
+user	0m0.394s
+sys	0m0.020s
+----------
+Run 59
+
+real	0m0.410s
+user	0m0.390s
+sys	0m0.020s
+----------
+Run 60
+
+real	0m0.413s
+user	0m0.397s
+sys	0m0.016s
+----------
+Run 61
+
+real	0m0.413s
+user	0m0.389s
+sys	0m0.024s
+----------
+Run 62
+
+real	0m0.415s
+user	0m0.371s
+sys	0m0.044s
+----------
+Run 63
+
+real	0m0.417s
+user	0m0.393s
+sys	0m0.024s
+----------
+Run 64
+
+real	0m0.412s
+user	0m0.392s
+sys	0m0.021s
+----------
+Run 65
+
+real	0m0.416s
+user	0m0.388s
+sys	0m0.028s
+----------
+Run 66
+
+real	0m0.415s
+user	0m0.394s
+sys	0m0.020s
+----------
+Run 67
+
+real	0m0.415s
+user	0m0.391s
+sys	0m0.024s
+----------
+Run 68
+
+real	0m0.413s
+user	0m0.368s
+sys	0m0.044s
+----------
+Run 69
+
+real	0m0.417s
+user	0m0.405s
+sys	0m0.012s
+----------
+Run 70
+
+real	0m0.411s
+user	0m0.383s
+sys	0m0.028s
+----------
+Run 71
+
+real	0m0.411s
+user	0m0.391s
+sys	0m0.020s
+----------
+Run 72
+
+real	0m0.413s
+user	0m0.397s
+sys	0m0.016s
+----------
+Run 73
+
+real	0m0.413s
+user	0m0.385s
+sys	0m0.028s
+----------
+Run 74
+
+real	0m0.411s
+user	0m0.387s
+sys	0m0.024s
+----------
+Run 75
+
+real	0m0.414s
+user	0m0.390s
+sys	0m0.024s
+----------
+Run 76
+
+real	0m0.412s
+user	0m0.380s
+sys	0m0.032s
+----------
+Run 77
+
+real	0m0.415s
+user	0m0.379s
+sys	0m0.036s
+----------
+Run 78
+
+real	0m0.413s
+user	0m0.393s
+sys	0m0.020s
+----------
+Run 79
+
+real	0m0.413s
+user	0m0.385s
+sys	0m0.028s
+----------
+Run 80
+
+real	0m0.416s
+user	0m0.387s
+sys	0m0.028s
+----------
+Run 81
+
+real	0m0.417s
+user	0m0.392s
+sys	0m0.024s
+----------
+Run 82
+
+real	0m0.409s
+user	0m0.388s
+sys	0m0.020s
+----------
+Run 83
+
+real	0m0.408s
+user	0m0.392s
+sys	0m0.016s
+----------
+Run 84
+
+real	0m0.410s
+user	0m0.402s
+sys	0m0.008s
+----------
+Run 85
+
+real	0m0.413s
+user	0m0.392s
+sys	0m0.020s
+----------
+Run 86
+
+real	0m0.410s
+user	0m0.385s
+sys	0m0.025s
+----------
+Run 87
+
+real	0m0.414s
+user	0m0.394s
+sys	0m0.020s
+----------
+Run 88
+
+real	0m0.413s
+user	0m0.408s
+sys	0m0.004s
+----------
+Run 89
+
+real	0m0.415s
+user	0m0.390s
+sys	0m0.024s
+----------
+Run 90
+
+real	0m0.415s
+user	0m0.382s
+sys	0m0.033s
+----------
+Run 91
+
+real	0m0.417s
+user	0m0.397s
+sys	0m0.020s
+----------
+Run 92
+
+real	0m0.410s
+user	0m0.373s
+sys	0m0.036s
+----------
+Run 93
+
+real	0m0.411s
+user	0m0.375s
+sys	0m0.036s
+----------
+Run 94
+
+real	0m0.412s
+user	0m0.383s
+sys	0m0.028s
+----------
+Run 95
+
+real	0m0.412s
+user	0m0.380s
+sys	0m0.032s
+----------
+Run 96
+
+real	0m0.413s
+user	0m0.397s
+sys	0m0.016s
+----------
+Run 97
+
+real	0m0.413s
+user	0m0.400s
+sys	0m0.012s
+----------
+Run 98
+
+real	0m0.412s
+user	0m0.380s
+sys	0m0.032s
+----------
+Run 99
+
+real	0m0.416s
+user	0m0.391s
+sys	0m0.025s
+----------
+Run 100
+
+real	0m0.416s
+user	0m0.388s
+sys	0m0.028s
+----------
+END - Sum Pooling
+BEGIN - Linear Layer
+Run 1
+
+real	0m0.133s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 2
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 3
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 4
+
+real	0m0.134s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 5
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 6
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 7
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 8
+
+real	0m0.134s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 9
+
+real	0m0.134s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 10
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 11
+
+real	0m0.134s
+user	0m0.134s
+sys	0m0.000s
+----------
+Run 12
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 13
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 14
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 15
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 16
+
+real	0m0.133s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 17
+
+real	0m0.134s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 18
+
+real	0m0.133s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 19
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 20
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 21
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 22
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 23
+
+real	0m0.133s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 24
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 25
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 26
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 27
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 28
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 29
+
+real	0m0.135s
+user	0m0.134s
+sys	0m0.000s
+----------
+Run 30
+
+real	0m0.135s
+user	0m0.134s
+sys	0m0.000s
+----------
+Run 31
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 32
+
+real	0m0.133s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 33
+
+real	0m0.133s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 34
+
+real	0m0.134s
+user	0m0.126s
+sys	0m0.008s
+----------
+Run 35
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 36
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 37
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 38
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 39
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 40
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 41
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 42
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 43
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 44
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 45
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 46
+
+real	0m0.132s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 47
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 48
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 49
+
+real	0m0.133s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 50
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 51
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 52
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 53
+
+real	0m0.132s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 54
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 55
+
+real	0m0.134s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 56
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 57
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 58
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 59
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 60
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 61
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 62
+
+real	0m0.132s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 63
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 64
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 65
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 66
+
+real	0m0.132s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 67
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 68
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 69
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 70
+
+real	0m0.132s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 71
+
+real	0m0.132s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 72
+
+real	0m0.132s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 73
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 74
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 75
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 76
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 77
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 78
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 79
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 80
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 81
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 82
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 83
+
+real	0m0.133s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 84
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 85
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 86
+
+real	0m0.133s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 87
+
+real	0m0.131s
+user	0m0.127s
+sys	0m0.004s
+----------
+Run 88
+
+real	0m0.131s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 89
+
+real	0m0.133s
+user	0m0.133s
+sys	0m0.000s
+----------
+Run 90
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 91
+
+real	0m0.132s
+user	0m0.131s
+sys	0m0.000s
+----------
+Run 92
+
+real	0m0.133s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 93
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 94
+
+real	0m0.133s
+user	0m0.129s
+sys	0m0.004s
+----------
+Run 95
+
+real	0m0.133s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 96
+
+real	0m0.133s
+user	0m0.128s
+sys	0m0.004s
+----------
+Run 97
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 98
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 99
+
+real	0m0.132s
+user	0m0.132s
+sys	0m0.000s
+----------
+Run 100
+
+real	0m0.132s
+user	0m0.128s
+sys	0m0.004s
+----------
+END - Linear Pooling
+
+ Performance counter stats for 'bash run_cpp_experiments.sh 100':
+
+         182864.47 msec task-clock                       #    1.000 CPUs utilized             
+              2260      context-switches                 #   12.359 /sec                      
+               398      cpu-migrations                   #    2.176 /sec                      
+           4641196      page-faults                      #   25.381 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+     182.927964547 seconds time elapsed
+
+     173.077616000 seconds user
+       9.805898000 seconds sys
+
+
