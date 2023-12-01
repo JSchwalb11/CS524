@@ -1,0 +1,19 @@
+bash: run_python_experiments.sh: No such file or directory
+
+ Performance counter stats for 'bash run_python_experiments.sh 100':
+
+              1.30 msec task-clock                       #    0.767 CPUs utilized             
+                 1      context-switches                 #  770.385 /sec                      
+                 0      cpu-migrations                   #    0.000 /sec                      
+               138      page-faults                      #  106.313 K/sec                     
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+   <not supported>      branches                                                              
+   <not supported>      branch-misses                                                         
+
+       0.001691634 seconds time elapsed
+
+       0.001686000 seconds user
+       0.000000000 seconds sys
+
+
