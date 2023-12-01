@@ -12,8 +12,8 @@ Run 2
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 3
@@ -28,16 +28,16 @@ Run 4
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
+real	0m0.039s
+user	0m0.036s
 sys	0m0.002s
 ----------
 Run 5
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 6
@@ -52,7 +52,7 @@ Run 7
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -60,9 +60,9 @@ Run 8
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.038s
+user	0m0.038s
+sys	0m0.000s
 ----------
 Run 9
 Searching for 524288
@@ -76,8 +76,8 @@ Run 10
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 11
@@ -92,7 +92,7 @@ Run 12
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -100,8 +100,8 @@ Run 13
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 14
@@ -116,7 +116,7 @@ Run 15
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.038s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -132,7 +132,7 @@ Run 17
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.038s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -140,9 +140,9 @@ Run 18
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.038s
+sys	0m0.000s
 ----------
 Run 19
 Searching for 524288
@@ -156,33 +156,33 @@ Run 20
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.038s
 ----------
 Run 21
 Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 22
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.038s
+sys	0m0.000s
 ----------
 Run 23
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.019s
+sys	0m0.019s
 ----------
 Run 24
 Searching for 524288
@@ -196,23 +196,23 @@ Run 25
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 26
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 27
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.003s
+real	0m0.002s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -220,17 +220,17 @@ Run 28
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.035s
+user	0m0.017s
+sys	0m0.017s
 ----------
 Run 29
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.000s
-sys	0m0.002s
+sys	0m0.038s
 ----------
 Run 30
 Searching for 524288
@@ -244,47 +244,47 @@ Run 31
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.043s
+user	0m0.021s
+sys	0m0.021s
 ----------
 Run 32
 Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 33
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
-sys	0m0.000s
+sys	0m0.036s
 ----------
 Run 34
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.035s
+user	0m0.017s
+sys	0m0.017s
 ----------
 Run 35
 Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 36
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -292,8 +292,8 @@ Run 37
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.043s
+user	0m0.042s
 sys	0m0.000s
 ----------
 Run 38
@@ -308,25 +308,25 @@ Run 39
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.003s
+real	0m0.039s
 user	0m0.002s
-sys	0m0.000s
+sys	0m0.036s
 ----------
 Run 40
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.035s
+user	0m0.034s
 sys	0m0.000s
 ----------
 Run 41
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.043s
+user	0m0.000s
+sys	0m0.042s
 ----------
 Run 42
 Searching for 524288
@@ -340,56 +340,56 @@ Run 43
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 44
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.035s
+user	0m0.017s
+sys	0m0.017s
 ----------
 Run 45
 Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 46
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.043s
+user	0m0.042s
+sys	0m0.000s
 ----------
 Run 47
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.038s
 ----------
 Run 48
 Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.002s
+sys	0m0.000s
 ----------
 Run 49
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 50
@@ -404,7 +404,7 @@ Run 51
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.038s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -412,8 +412,8 @@ Run 52
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.003s
-user	0m0.002s
+real	0m0.035s
+user	0m0.034s
 sys	0m0.000s
 ----------
 Run 53
@@ -421,23 +421,23 @@ Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+user	0m0.002s
+sys	0m0.000s
 ----------
 Run 54
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.043s
+user	0m0.042s
 sys	0m0.000s
 ----------
 Run 55
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.035s
+user	0m0.034s
 sys	0m0.000s
 ----------
 Run 56
@@ -445,15 +445,15 @@ Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 57
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 58
@@ -461,23 +461,23 @@ Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 59
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
-sys	0m0.000s
+sys	0m0.036s
 ----------
 Run 60
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 61
@@ -492,17 +492,17 @@ Run 62
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
-sys	0m0.000s
+sys	0m0.036s
 ----------
 Run 63
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.038s
+sys	0m0.000s
 ----------
 Run 64
 Searching for 524288
@@ -517,23 +517,23 @@ Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 66
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 67
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 68
@@ -541,15 +541,15 @@ Searching for 524288
 You searched for 524288 but the value was not found.
 
 real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+user	0m0.000s
+sys	0m0.002s
 ----------
 Run 69
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.001s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 70
@@ -564,33 +564,33 @@ Run 71
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.039s
 user	0m0.002s
-sys	0m0.000s
+sys	0m0.036s
 ----------
 Run 72
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.039s
+sys	0m0.000s
 ----------
 Run 73
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.040s
+user	0m0.039s
 sys	0m0.000s
 ----------
 Run 74
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.039s
 ----------
 Run 75
 Searching for 524288
@@ -604,17 +604,17 @@ Run 76
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.002s
+sys	0m0.036s
 ----------
 Run 77
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.019s
+sys	0m0.019s
 ----------
 Run 78
 Searching for 524288
@@ -628,7 +628,7 @@ Run 79
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
+real	0m0.038s
 user	0m0.002s
 sys	0m0.000s
 ----------
@@ -636,8 +636,8 @@ Run 80
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.038s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 81
@@ -652,9 +652,9 @@ Run 82
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.019s
+sys	0m0.019s
 ----------
 Run 83
 Searching for 524288
@@ -676,9 +676,9 @@ Run 85
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.038s
 ----------
 Run 86
 Searching for 524288
@@ -692,25 +692,25 @@ Run 87
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.008s
+sys	0m0.030s
 ----------
 Run 88
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.000s
-sys	0m0.002s
+real	0m0.039s
+user	0m0.019s
+sys	0m0.019s
 ----------
 Run 89
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.038s
+user	0m0.010s
+sys	0m0.028s
 ----------
 Run 90
 Searching for 524288
@@ -724,16 +724,16 @@ Run 91
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 92
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 93
@@ -748,8 +748,8 @@ Run 94
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
+real	0m0.039s
+user	0m0.038s
 sys	0m0.000s
 ----------
 Run 95
@@ -764,17 +764,17 @@ Run 96
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.038s
 ----------
 Run 97
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.019s
+sys	0m0.019s
 ----------
 Run 98
 Searching for 524288
@@ -788,3144 +788,3044 @@ Run 99
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.038s
 ----------
 Run 100
 Searching for 524288
 You searched for 524288 but the value was not found.
 
-real	0m0.002s
-user	0m0.002s
-sys	0m0.000s
+real	0m0.039s
+user	0m0.000s
+sys	0m0.002s
 ----------
 END - Binary Search
 BEGIN - Max Pooling
 Run 1
 
-real	0m0.434s
-user	0m0.424s
-sys	0m0.008s
+real	0m4.448s
+user	0m4.323s
+sys	0m0.124s
 ----------
 Run 2
 
-real	0m0.432s
-user	0m0.415s
-sys	0m0.016s
+real	0m4.456s
+user	0m4.289s
+sys	0m0.166s
 ----------
 Run 3
 
-real	0m0.435s
-user	0m0.406s
-sys	0m0.028s
+real	0m4.509s
+user	0m4.386s
+sys	0m0.085s
 ----------
 Run 4
 
-real	0m0.432s
-user	0m0.403s
-sys	0m0.028s
+real	0m4.561s
+user	0m4.351s
+sys	0m0.126s
 ----------
 Run 5
 
-real	0m0.434s
-user	0m0.405s
-sys	0m0.028s
+real	0m4.443s
+user	0m4.313s
+sys	0m0.128s
 ----------
 Run 6
+
+real	0m4.490s
+user	0m4.341s
+sys	0m0.147s
+----------
+Run 7
+
+real	0m4.506s
+user	0m4.295s
+sys	0m0.209s
+----------
+Run 8
+
+real	0m4.536s
+user	0m4.388s
+sys	0m0.146s
+----------
+Run 9
+
+real	0m4.497s
+user	0m4.312s
+sys	0m0.184s
+----------
+Run 10
+
+real	0m4.523s
+user	0m4.364s
+sys	0m0.122s
+----------
+Run 11
+
+real	0m4.448s
+user	0m4.301s
+sys	0m0.146s
+----------
+Run 12
+
+real	0m4.445s
+user	0m4.316s
+sys	0m0.127s
+----------
+Run 13
+
+real	0m4.441s
+user	0m4.377s
+sys	0m0.062s
+----------
+Run 14
+
+real	0m4.491s
+user	0m4.323s
+sys	0m0.167s
+----------
+Run 15
+
+real	0m4.499s
+user	0m4.290s
+sys	0m0.208s
+----------
+Run 16
+
+real	0m4.538s
+user	0m4.290s
+sys	0m0.211s
+----------
+Run 17
+
+real	0m4.441s
+user	0m4.249s
+sys	0m0.188s
+----------
+Run 18
+
+real	0m4.441s
+user	0m4.234s
+sys	0m0.205s
+----------
+Run 19
+
+real	0m4.538s
+user	0m4.368s
+sys	0m0.166s
+----------
+Run 20
+
+real	0m4.501s
+user	0m4.352s
+sys	0m0.147s
+----------
+Run 21
+
+real	0m4.526s
+user	0m4.395s
+sys	0m0.129s
+----------
+Run 22
+
+real	0m4.494s
+user	0m4.429s
+sys	0m0.063s
+----------
+Run 23
+
+real	0m4.499s
+user	0m4.290s
+sys	0m0.207s
+----------
+Run 24
+
+real	0m4.530s
+user	0m4.339s
+sys	0m0.189s
+----------
+Run 25
+
+real	0m4.504s
+user	0m4.398s
+sys	0m0.104s
+----------
+Run 26
+
+real	0m4.492s
+user	0m4.345s
+sys	0m0.146s
+----------
+Run 27
+
+real	0m4.444s
+user	0m4.172s
+sys	0m0.271s
+----------
+Run 28
+
+real	0m4.486s
+user	0m4.294s
+sys	0m0.188s
+----------
+Run 29
+
+real	0m4.500s
+user	0m4.415s
+sys	0m0.083s
+----------
+Run 30
+
+real	0m4.479s
+user	0m4.290s
+sys	0m0.187s
+----------
+Run 31
+
+real	0m4.435s
+user	0m4.270s
+sys	0m0.164s
+----------
+Run 32
+
+real	0m4.401s
+user	0m4.137s
+sys	0m0.226s
+----------
+Run 33
+
+real	0m4.478s
+user	0m4.269s
+sys	0m0.207s
+----------
+Run 34
+
+real	0m4.489s
+user	0m4.339s
+sys	0m0.147s
+----------
+Run 35
+
+real	0m4.483s
+user	0m4.297s
+sys	0m0.185s
+----------
+Run 36
+
+real	0m4.538s
+user	0m4.389s
+sys	0m0.147s
+----------
+Run 37
+
+real	0m4.501s
+user	0m4.334s
+sys	0m0.166s
+----------
+Run 38
+
+real	0m4.494s
+user	0m4.268s
+sys	0m0.187s
+----------
+Run 39
+
+real	0m4.485s
+user	0m4.267s
+sys	0m0.217s
+----------
+Run 40
+
+real	0m4.444s
+user	0m4.256s
+sys	0m0.186s
+----------
+Run 41
+
+real	0m4.478s
+user	0m4.337s
+sys	0m0.103s
+----------
+Run 42
+
+real	0m4.484s
+user	0m4.255s
+sys	0m0.228s
+----------
+Run 43
+
+real	0m4.498s
+user	0m4.370s
+sys	0m0.127s
+----------
+Run 44
+
+real	0m4.445s
+user	0m4.237s
+sys	0m0.207s
+----------
+Run 45
+
+real	0m1.557s
+user	0m1.487s
+sys	0m0.069s
+----------
+Run 46
+
+real	0m0.437s
+user	0m0.401s
+sys	0m0.036s
+----------
+Run 47
+
+real	0m0.433s
+user	0m0.388s
+sys	0m0.044s
+----------
+Run 48
+
+real	0m0.431s
+user	0m0.390s
+sys	0m0.040s
+----------
+Run 49
+
+real	0m0.428s
+user	0m0.408s
+sys	0m0.020s
+----------
+Run 50
+
+real	0m0.430s
+user	0m0.418s
+sys	0m0.012s
+----------
+Run 51
+
+real	0m0.431s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 52
+
+real	0m0.429s
+user	0m0.408s
+sys	0m0.020s
+----------
+Run 53
+
+real	0m0.429s
+user	0m0.409s
+sys	0m0.020s
+----------
+Run 54
+
+real	0m0.429s
+user	0m0.417s
+sys	0m0.012s
+----------
+Run 55
+
+real	0m0.429s
+user	0m0.421s
+sys	0m0.008s
+----------
+Run 56
+
+real	0m0.429s
+user	0m0.404s
+sys	0m0.024s
+----------
+Run 57
+
+real	0m0.430s
+user	0m0.401s
+sys	0m0.028s
+----------
+Run 58
+
+real	0m0.452s
+user	0m0.416s
+sys	0m0.036s
+----------
+Run 59
+
+real	0m0.428s
+user	0m0.403s
+sys	0m0.024s
+----------
+Run 60
+
+real	0m0.435s
+user	0m0.388s
+sys	0m0.044s
+----------
+Run 61
+
+real	0m0.431s
+user	0m0.399s
+sys	0m0.032s
+----------
+Run 62
+
+real	0m0.431s
+user	0m0.407s
+sys	0m0.024s
+----------
+Run 63
 
 real	0m0.432s
 user	0m0.387s
 sys	0m0.044s
 ----------
-Run 7
+Run 64
+
+real	0m0.430s
+user	0m0.402s
+sys	0m0.028s
+----------
+Run 65
+
+real	0m0.432s
+user	0m0.411s
+sys	0m0.020s
+----------
+Run 66
+
+real	0m0.433s
+user	0m0.408s
+sys	0m0.024s
+----------
+Run 67
 
 real	0m0.431s
 user	0m0.394s
 sys	0m0.036s
 ----------
-Run 8
-
-real	0m0.436s
-user	0m0.400s
-sys	0m0.036s
-----------
-Run 9
-
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
-----------
-Run 10
-
-real	0m0.438s
-user	0m0.418s
-sys	0m0.020s
-----------
-Run 11
-
-real	0m0.434s
-user	0m0.401s
-sys	0m0.032s
-----------
-Run 12
-
-real	0m0.436s
-user	0m0.415s
-sys	0m0.020s
-----------
-Run 13
-
-real	0m0.436s
-user	0m0.415s
-sys	0m0.020s
-----------
-Run 14
-
-real	0m0.435s
-user	0m0.407s
-sys	0m0.028s
-----------
-Run 15
-
-real	0m0.436s
-user	0m0.412s
-sys	0m0.024s
-----------
-Run 16
-
-real	0m0.447s
-user	0m0.431s
-sys	0m0.016s
-----------
-Run 17
-
-real	0m0.443s
-user	0m0.426s
-sys	0m0.016s
-----------
-Run 18
-
-real	0m0.442s
-user	0m0.413s
-sys	0m0.028s
-----------
-Run 19
-
-real	0m0.441s
-user	0m0.412s
-sys	0m0.028s
-----------
-Run 20
-
-real	0m0.438s
-user	0m0.402s
-sys	0m0.036s
-----------
-Run 21
-
-real	0m0.439s
-user	0m0.430s
-sys	0m0.008s
-----------
-Run 22
-
-real	0m0.443s
-user	0m0.407s
-sys	0m0.036s
-----------
-Run 23
-
-real	0m0.438s
-user	0m0.409s
-sys	0m0.028s
-----------
-Run 24
-
-real	0m0.439s
-user	0m0.418s
-sys	0m0.020s
-----------
-Run 25
-
-real	0m0.441s
-user	0m0.417s
-sys	0m0.024s
-----------
-Run 26
-
-real	0m0.439s
-user	0m0.402s
-sys	0m0.036s
-----------
-Run 27
-
-real	0m0.437s
-user	0m0.413s
-sys	0m0.024s
-----------
-Run 28
-
-real	0m0.443s
-user	0m0.422s
-sys	0m0.020s
-----------
-Run 29
-
-real	0m0.439s
-user	0m0.407s
-sys	0m0.032s
-----------
-Run 30
-
-real	0m0.442s
-user	0m0.433s
-sys	0m0.008s
-----------
-Run 31
-
-real	0m0.445s
-user	0m0.420s
-sys	0m0.024s
-----------
-Run 32
-
-real	0m0.441s
-user	0m0.420s
-sys	0m0.020s
-----------
-Run 33
-
-real	0m0.445s
-user	0m0.428s
-sys	0m0.016s
-----------
-Run 34
-
-real	0m0.439s
-user	0m0.427s
-sys	0m0.012s
-----------
-Run 35
-
-real	0m0.440s
-user	0m0.415s
-sys	0m0.024s
-----------
-Run 36
-
-real	0m0.436s
-user	0m0.423s
-sys	0m0.012s
-----------
-Run 37
-
-real	0m0.434s
-user	0m0.414s
-sys	0m0.020s
-----------
-Run 38
-
-real	0m0.436s
-user	0m0.396s
-sys	0m0.040s
-----------
-Run 39
-
-real	0m0.435s
-user	0m0.426s
-sys	0m0.008s
-----------
-Run 40
-
-real	0m0.444s
-user	0m0.423s
-sys	0m0.020s
-----------
-Run 41
-
-real	0m0.438s
-user	0m0.409s
-sys	0m0.028s
-----------
-Run 42
-
-real	0m0.438s
-user	0m0.417s
-sys	0m0.020s
-----------
-Run 43
-
-real	0m0.441s
-user	0m0.397s
-sys	0m0.044s
-----------
-Run 44
-
-real	0m0.440s
-user	0m0.419s
-sys	0m0.020s
-----------
-Run 45
-
-real	0m0.436s
-user	0m0.416s
-sys	0m0.020s
-----------
-Run 46
-
-real	0m0.434s
-user	0m0.417s
-sys	0m0.016s
-----------
-Run 47
-
-real	0m0.434s
-user	0m0.422s
-sys	0m0.012s
-----------
-Run 48
-
-real	0m0.432s
-user	0m0.407s
-sys	0m0.024s
-----------
-Run 49
-
-real	0m0.433s
-user	0m0.413s
-sys	0m0.020s
-----------
-Run 50
-
-real	0m0.432s
-user	0m0.411s
-sys	0m0.020s
-----------
-Run 51
-
-real	0m0.444s
-user	0m0.419s
-sys	0m0.024s
-----------
-Run 52
-
-real	0m0.432s
-user	0m0.419s
-sys	0m0.012s
-----------
-Run 53
-
-real	0m0.439s
-user	0m0.423s
-sys	0m0.016s
-----------
-Run 54
-
-real	0m0.436s
-user	0m0.423s
-sys	0m0.012s
-----------
-Run 55
-
-real	0m0.447s
-user	0m0.414s
-sys	0m0.032s
-----------
-Run 56
-
-real	0m0.436s
-user	0m0.428s
-sys	0m0.008s
-----------
-Run 57
-
-real	0m0.433s
-user	0m0.408s
-sys	0m0.024s
-----------
-Run 58
-
-real	0m0.438s
-user	0m0.425s
-sys	0m0.012s
-----------
-Run 59
-
-real	0m0.433s
-user	0m0.404s
-sys	0m0.028s
-----------
-Run 60
-
-real	0m0.439s
-user	0m0.426s
-sys	0m0.012s
-----------
-Run 61
-
-real	0m0.437s
-user	0m0.405s
-sys	0m0.032s
-----------
-Run 62
-
-real	0m0.438s
-user	0m0.409s
-sys	0m0.028s
-----------
-Run 63
-
-real	0m0.448s
-user	0m0.411s
-sys	0m0.037s
-----------
-Run 64
-
-real	0m0.440s
-user	0m0.415s
-sys	0m0.024s
-----------
-Run 65
-
-real	0m0.475s
-user	0m0.450s
-sys	0m0.024s
-----------
-Run 66
-
-real	0m0.435s
-user	0m0.410s
-sys	0m0.024s
-----------
-Run 67
-
-real	0m0.439s
-user	0m0.422s
-sys	0m0.016s
-----------
 Run 68
 
-real	0m0.437s
-user	0m0.400s
-sys	0m0.036s
+real	0m0.555s
+user	0m0.522s
+sys	0m0.032s
 ----------
 Run 69
 
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
+real	0m0.610s
+user	0m0.596s
+sys	0m0.014s
 ----------
 Run 70
 
-real	0m0.440s
-user	0m0.416s
-sys	0m0.024s
+real	0m0.615s
+user	0m0.581s
+sys	0m0.034s
 ----------
 Run 71
 
-real	0m0.440s
-user	0m0.419s
-sys	0m0.020s
+real	0m0.626s
+user	0m0.591s
+sys	0m0.034s
 ----------
 Run 72
 
-real	0m0.440s
-user	0m0.408s
-sys	0m0.028s
+real	0m0.616s
+user	0m0.596s
+sys	0m0.019s
 ----------
 Run 73
 
-real	0m0.437s
-user	0m0.420s
-sys	0m0.016s
+real	0m0.620s
+user	0m0.600s
+sys	0m0.019s
 ----------
 Run 74
 
-real	0m0.437s
-user	0m0.412s
-sys	0m0.024s
+real	0m0.617s
+user	0m0.597s
+sys	0m0.019s
 ----------
 Run 75
 
-real	0m0.432s
-user	0m0.387s
-sys	0m0.044s
+real	0m0.620s
+user	0m0.586s
+sys	0m0.034s
 ----------
 Run 76
 
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
+real	0m0.877s
+user	0m0.859s
+sys	0m0.018s
 ----------
 Run 77
 
-real	0m0.434s
-user	0m0.402s
-sys	0m0.032s
+real	0m1.120s
+user	0m1.058s
+sys	0m0.062s
 ----------
 Run 78
 
-real	0m0.440s
-user	0m0.416s
-sys	0m0.024s
+real	0m1.098s
+user	0m1.004s
+sys	0m0.081s
 ----------
 Run 79
 
-real	0m0.438s
-user	0m0.413s
-sys	0m0.024s
+real	0m1.099s
+user	0m1.063s
+sys	0m0.035s
 ----------
 Run 80
 
-real	0m0.440s
-user	0m0.411s
-sys	0m0.028s
+real	0m1.152s
+user	0m1.108s
+sys	0m0.043s
 ----------
 Run 81
 
-real	0m0.436s
-user	0m0.404s
-sys	0m0.032s
+real	0m4.490s
+user	0m4.364s
+sys	0m0.124s
 ----------
 Run 82
 
-real	0m0.436s
-user	0m0.400s
-sys	0m0.036s
+real	0m4.501s
+user	0m4.308s
+sys	0m0.191s
 ----------
 Run 83
 
-real	0m0.439s
-user	0m0.398s
-sys	0m0.040s
+real	0m4.528s
+user	0m4.364s
+sys	0m0.126s
 ----------
 Run 84
 
-real	0m0.439s
-user	0m0.410s
-sys	0m0.028s
+real	0m4.531s
+user	0m4.340s
+sys	0m0.189s
 ----------
 Run 85
 
-real	0m0.432s
-user	0m0.399s
-sys	0m0.032s
+real	0m4.498s
+user	0m4.332s
+sys	0m0.165s
 ----------
 Run 86
 
-real	0m0.446s
-user	0m0.425s
-sys	0m0.020s
+real	0m4.539s
+user	0m4.349s
+sys	0m0.188s
 ----------
 Run 87
 
-real	0m0.435s
-user	0m0.407s
-sys	0m0.028s
+real	0m4.491s
+user	0m4.385s
+sys	0m0.105s
 ----------
 Run 88
 
-real	0m0.439s
-user	0m0.427s
-sys	0m0.012s
+real	0m4.436s
+user	0m4.167s
+sys	0m0.268s
 ----------
 Run 89
 
-real	0m0.436s
-user	0m0.412s
-sys	0m0.024s
+real	0m4.482s
+user	0m4.336s
+sys	0m0.145s
 ----------
 Run 90
 
-real	0m0.439s
-user	0m0.395s
-sys	0m0.044s
+real	0m4.442s
+user	0m4.273s
+sys	0m0.167s
 ----------
 Run 91
 
-real	0m0.438s
-user	0m0.414s
-sys	0m0.024s
+real	0m4.499s
+user	0m4.265s
+sys	0m0.233s
 ----------
 Run 92
 
-real	0m0.442s
-user	0m0.417s
-sys	0m0.024s
+real	0m4.486s
+user	0m4.253s
+sys	0m0.229s
 ----------
 Run 93
 
-real	0m0.432s
-user	0m0.403s
-sys	0m0.028s
+real	0m4.484s
+user	0m4.295s
+sys	0m0.187s
 ----------
 Run 94
 
-real	0m0.436s
-user	0m0.419s
-sys	0m0.016s
+real	0m4.458s
+user	0m4.288s
+sys	0m0.168s
 ----------
 Run 95
 
-real	0m0.441s
-user	0m0.400s
-sys	0m0.040s
+real	0m4.479s
+user	0m4.229s
+sys	0m0.249s
 ----------
 Run 96
 
-real	0m0.431s
-user	0m0.414s
-sys	0m0.016s
+real	0m4.480s
+user	0m4.353s
+sys	0m0.126s
 ----------
 Run 97
 
-real	0m0.430s
-user	0m0.405s
-sys	0m0.024s
+real	0m4.454s
+user	0m4.289s
+sys	0m0.163s
 ----------
 Run 98
 
-real	0m0.429s
-user	0m0.396s
-sys	0m0.032s
+real	0m4.543s
+user	0m4.353s
+sys	0m0.189s
 ----------
 Run 99
 
-real	0m0.430s
-user	0m0.410s
-sys	0m0.020s
+real	0m4.487s
+user	0m4.300s
+sys	0m0.185s
 ----------
 Run 100
 
-real	0m0.433s
-user	0m0.388s
-sys	0m0.044s
+real	0m4.477s
+user	0m4.389s
+sys	0m0.087s
 ----------
 END - Max Pooling
 BEGIN - Min Pooling
 Run 1
 
-real	0m0.430s
-user	0m0.409s
-sys	0m0.020s
+real	0m4.391s
+user	0m4.224s
+sys	0m0.165s
 ----------
 Run 2
 
-real	0m0.432s
-user	0m0.412s
-sys	0m0.020s
+real	0m4.478s
+user	0m4.244s
+sys	0m0.232s
 ----------
 Run 3
 
-real	0m0.431s
-user	0m0.410s
-sys	0m0.020s
+real	0m4.399s
+user	0m4.315s
+sys	0m0.082s
 ----------
 Run 4
 
-real	0m0.430s
-user	0m0.409s
-sys	0m0.020s
+real	0m4.444s
+user	0m4.317s
+sys	0m0.123s
 ----------
 Run 5
 
-real	0m0.431s
-user	0m0.414s
-sys	0m0.016s
+real	0m4.529s
+user	0m4.421s
+sys	0m0.106s
 ----------
 Run 6
 
-real	0m0.434s
-user	0m0.429s
-sys	0m0.004s
+real	0m4.503s
+user	0m4.273s
+sys	0m0.228s
 ----------
 Run 7
 
-real	0m0.429s
-user	0m0.401s
-sys	0m0.028s
+real	0m4.508s
+user	0m4.382s
+sys	0m0.124s
 ----------
 Run 8
 
-real	0m0.434s
-user	0m0.413s
-sys	0m0.020s
+real	0m5.216s
+user	0m5.110s
+sys	0m0.105s
 ----------
 Run 9
 
-real	0m0.427s
-user	0m0.411s
-sys	0m0.016s
+real	0m4.495s
+user	0m4.348s
+sys	0m0.147s
 ----------
 Run 10
 
-real	0m0.438s
-user	0m0.429s
-sys	0m0.008s
+real	0m4.487s
+user	0m4.261s
+sys	0m0.188s
 ----------
 Run 11
 
-real	0m0.428s
-user	0m0.391s
-sys	0m0.036s
+real	0m4.531s
+user	0m4.445s
+sys	0m0.083s
 ----------
 Run 12
 
-real	0m0.429s
-user	0m0.416s
-sys	0m0.012s
+real	0m4.457s
+user	0m4.334s
+sys	0m0.121s
 ----------
 Run 13
 
-real	0m0.431s
-user	0m0.395s
-sys	0m0.036s
+real	0m4.545s
+user	0m4.419s
+sys	0m0.125s
 ----------
 Run 14
 
-real	0m0.440s
-user	0m0.415s
-sys	0m0.024s
+real	0m4.486s
+user	0m4.378s
+sys	0m0.105s
 ----------
 Run 15
 
-real	0m0.437s
-user	0m0.408s
-sys	0m0.028s
+real	0m4.400s
+user	0m4.313s
+sys	0m0.086s
 ----------
 Run 16
 
-real	0m0.434s
-user	0m0.406s
-sys	0m0.028s
+real	0m4.484s
+user	0m4.344s
+sys	0m0.139s
 ----------
 Run 17
 
-real	0m0.440s
-user	0m0.408s
-sys	0m0.032s
+real	0m4.502s
+user	0m4.354s
+sys	0m0.147s
 ----------
 Run 18
 
-real	0m0.434s
-user	0m0.402s
-sys	0m0.032s
+real	0m4.544s
+user	0m4.331s
+sys	0m0.211s
 ----------
 Run 19
 
-real	0m0.434s
-user	0m0.417s
-sys	0m0.016s
+real	0m4.491s
+user	0m4.304s
+sys	0m0.185s
 ----------
 Run 20
 
-real	0m0.430s
-user	0m0.413s
-sys	0m0.016s
+real	0m4.492s
+user	0m4.240s
+sys	0m0.251s
 ----------
 Run 21
 
-real	0m0.431s
-user	0m0.415s
-sys	0m0.016s
+real	0m4.482s
+user	0m4.419s
+sys	0m0.062s
 ----------
 Run 22
 
-real	0m0.432s
-user	0m0.411s
-sys	0m0.020s
+real	0m4.401s
+user	0m4.174s
+sys	0m0.226s
 ----------
 Run 23
 
-real	0m0.443s
-user	0m0.415s
-sys	0m0.028s
+real	0m4.491s
+user	0m4.256s
+sys	0m0.234s
 ----------
 Run 24
 
-real	0m0.442s
-user	0m0.406s
-sys	0m0.036s
+real	0m4.493s
+user	0m4.367s
+sys	0m0.124s
 ----------
 Run 25
 
-real	0m0.436s
-user	0m0.424s
-sys	0m0.012s
+real	0m4.498s
+user	0m4.370s
+sys	0m0.126s
 ----------
 Run 26
 
-real	0m0.435s
-user	0m0.398s
-sys	0m0.036s
+real	0m4.499s
+user	0m4.352s
+sys	0m0.145s
 ----------
 Run 27
 
-real	0m0.435s
-user	0m0.418s
-sys	0m0.016s
+real	0m4.536s
+user	0m4.386s
+sys	0m0.145s
 ----------
 Run 28
 
-real	0m0.440s
-user	0m0.431s
-sys	0m0.008s
+real	0m4.435s
+user	0m4.309s
+sys	0m0.125s
 ----------
 Run 29
 
-real	0m0.439s
-user	0m0.426s
-sys	0m0.012s
+real	0m4.437s
+user	0m4.308s
+sys	0m0.127s
 ----------
 Run 30
 
-real	0m0.439s
-user	0m0.414s
-sys	0m0.024s
+real	0m4.442s
+user	0m4.315s
+sys	0m0.125s
 ----------
 Run 31
 
-real	0m0.439s
-user	0m0.426s
-sys	0m0.012s
+real	0m4.542s
+user	0m4.368s
+sys	0m0.170s
 ----------
 Run 32
 
-real	0m0.436s
-user	0m0.403s
-sys	0m0.032s
+real	0m4.501s
+user	0m4.307s
+sys	0m0.191s
 ----------
 Run 33
 
-real	0m0.444s
-user	0m0.420s
-sys	0m0.024s
+real	0m4.463s
+user	0m4.235s
+sys	0m0.226s
 ----------
 Run 34
 
-real	0m0.440s
-user	0m0.411s
-sys	0m0.028s
+real	0m4.496s
+user	0m4.348s
+sys	0m0.146s
 ----------
 Run 35
 
-real	0m0.440s
-user	0m0.391s
-sys	0m0.048s
+real	0m4.524s
+user	0m4.321s
+sys	0m0.201s
 ----------
 Run 36
 
-real	0m0.441s
-user	0m0.420s
-sys	0m0.020s
+real	0m4.500s
+user	0m4.415s
+sys	0m0.083s
 ----------
 Run 37
 
-real	0m0.438s
-user	0m0.426s
-sys	0m0.012s
+real	0m4.456s
+user	0m4.331s
+sys	0m0.123s
 ----------
 Run 38
 
-real	0m0.439s
-user	0m0.418s
-sys	0m0.020s
+real	0m4.530s
+user	0m4.466s
+sys	0m0.063s
 ----------
 Run 39
 
-real	0m0.440s
-user	0m0.407s
-sys	0m0.032s
+real	0m4.532s
+user	0m4.405s
+sys	0m0.125s
 ----------
 Run 40
 
-real	0m0.442s
-user	0m0.415s
-sys	0m0.024s
+real	0m4.496s
+user	0m4.323s
+sys	0m0.171s
 ----------
 Run 41
 
-real	0m0.434s
-user	0m0.408s
-sys	0m0.024s
+real	0m4.487s
+user	0m4.341s
+sys	0m0.145s
 ----------
 Run 42
 
-real	0m0.435s
-user	0m0.398s
-sys	0m0.036s
+real	0m4.477s
+user	0m4.293s
+sys	0m0.145s
 ----------
 Run 43
 
-real	0m0.431s
-user	0m0.403s
-sys	0m0.028s
+real	0m4.444s
+user	0m4.296s
+sys	0m0.146s
 ----------
 Run 44
 
-real	0m0.436s
-user	0m0.399s
-sys	0m0.036s
+real	0m4.442s
+user	0m4.256s
+sys	0m0.184s
 ----------
 Run 45
 
-real	0m0.436s
-user	0m0.419s
-sys	0m0.016s
+real	0m4.539s
+user	0m4.429s
+sys	0m0.108s
 ----------
 Run 46
 
-real	0m0.468s
-user	0m0.436s
-sys	0m0.032s
+real	0m4.449s
+user	0m4.323s
+sys	0m0.125s
 ----------
 Run 47
 
-real	0m0.433s
-user	0m0.416s
-sys	0m0.016s
+real	0m4.438s
+user	0m4.269s
+sys	0m0.168s
 ----------
 Run 48
 
-real	0m0.436s
-user	0m0.419s
-sys	0m0.016s
+real	0m4.444s
+user	0m4.320s
+sys	0m0.123s
 ----------
 Run 49
 
-real	0m0.431s
-user	0m0.406s
-sys	0m0.024s
+real	0m4.442s
+user	0m4.326s
+sys	0m0.083s
 ----------
 Run 50
 
-real	0m0.434s
-user	0m0.413s
-sys	0m0.020s
+real	0m4.440s
+user	0m4.273s
+sys	0m0.165s
 ----------
 Run 51
 
-real	0m0.430s
-user	0m0.401s
-sys	0m0.028s
+real	0m4.443s
+user	0m4.252s
+sys	0m0.189s
 ----------
 Run 52
 
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
+real	0m4.444s
+user	0m4.251s
+sys	0m0.191s
 ----------
 Run 53
 
-real	0m0.435s
-user	0m0.415s
-sys	0m0.020s
+real	0m4.486s
+user	0m4.422s
+sys	0m0.062s
 ----------
 Run 54
 
-real	0m0.439s
-user	0m0.430s
-sys	0m0.008s
+real	0m4.457s
+user	0m4.370s
+sys	0m0.086s
 ----------
 Run 55
 
-real	0m0.441s
-user	0m0.428s
-sys	0m0.012s
+real	0m4.445s
+user	0m4.257s
+sys	0m0.187s
 ----------
 Run 56
 
-real	0m0.441s
-user	0m0.412s
-sys	0m0.028s
+real	0m4.406s
+user	0m4.260s
+sys	0m0.145s
 ----------
 Run 57
 
-real	0m0.454s
-user	0m0.422s
-sys	0m0.032s
+real	0m4.445s
+user	0m4.219s
+sys	0m0.224s
 ----------
 Run 58
 
-real	0m0.445s
-user	0m0.405s
-sys	0m0.040s
+real	0m4.495s
+user	0m4.408s
+sys	0m0.083s
 ----------
 Run 59
 
-real	0m0.434s
-user	0m0.422s
-sys	0m0.012s
+real	0m4.492s
+user	0m4.326s
+sys	0m0.125s
 ----------
 Run 60
 
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
+real	0m4.443s
+user	0m4.295s
+sys	0m0.147s
 ----------
 Run 61
 
-real	0m0.438s
-user	0m0.418s
-sys	0m0.020s
+real	0m4.405s
+user	0m4.237s
+sys	0m0.167s
 ----------
 Run 62
 
-real	0m0.436s
-user	0m0.411s
-sys	0m0.024s
+real	0m4.445s
+user	0m4.340s
+sys	0m0.103s
 ----------
 Run 63
 
-real	0m0.433s
-user	0m0.400s
-sys	0m0.032s
+real	0m4.436s
+user	0m4.268s
+sys	0m0.167s
 ----------
 Run 64
 
-real	0m0.433s
-user	0m0.404s
-sys	0m0.028s
+real	0m4.440s
+user	0m4.193s
+sys	0m0.210s
 ----------
 Run 65
 
-real	0m0.435s
-user	0m0.414s
-sys	0m0.020s
+real	0m4.400s
+user	0m4.255s
+sys	0m0.144s
 ----------
 Run 66
 
-real	0m0.431s
-user	0m0.411s
-sys	0m0.020s
+real	0m4.400s
+user	0m4.198s
+sys	0m0.201s
 ----------
 Run 67
 
-real	0m0.434s
-user	0m0.413s
-sys	0m0.020s
+real	0m4.403s
+user	0m4.238s
+sys	0m0.163s
 ----------
 Run 68
 
-real	0m0.442s
-user	0m0.425s
-sys	0m0.016s
+real	0m4.530s
+user	0m4.380s
+sys	0m0.103s
 ----------
 Run 69
 
-real	0m0.438s
-user	0m0.405s
-sys	0m0.032s
+real	0m4.438s
+user	0m4.276s
+sys	0m0.125s
 ----------
 Run 70
 
-real	0m0.443s
-user	0m0.415s
-sys	0m0.028s
+real	0m4.498s
+user	0m4.302s
+sys	0m0.194s
 ----------
 Run 71
 
-real	0m0.436s
-user	0m0.408s
-sys	0m0.028s
+real	0m4.449s
+user	0m4.282s
+sys	0m0.166s
 ----------
 Run 72
 
-real	0m0.438s
-user	0m0.401s
-sys	0m0.036s
+real	0m4.476s
+user	0m4.432s
+sys	0m0.042s
 ----------
 Run 73
 
-real	0m0.435s
-user	0m0.423s
-sys	0m0.012s
+real	0m4.436s
+user	0m4.289s
+sys	0m0.145s
 ----------
 Run 74
 
-real	0m0.448s
-user	0m0.427s
-sys	0m0.020s
+real	0m4.445s
+user	0m4.340s
+sys	0m0.104s
 ----------
 Run 75
 
-real	0m0.439s
-user	0m0.407s
-sys	0m0.032s
+real	0m4.439s
+user	0m4.276s
+sys	0m0.162s
 ----------
 Run 76
 
-real	0m0.433s
-user	0m0.433s
-sys	0m0.000s
+real	0m4.441s
+user	0m4.254s
+sys	0m0.185s
 ----------
 Run 77
 
-real	0m0.434s
-user	0m0.406s
-sys	0m0.028s
+real	0m4.469s
+user	0m4.348s
+sys	0m0.083s
 ----------
 Run 78
 
-real	0m0.435s
-user	0m0.411s
-sys	0m0.024s
+real	0m4.443s
+user	0m4.259s
+sys	0m0.182s
 ----------
 Run 79
 
-real	0m0.434s
-user	0m0.409s
-sys	0m0.024s
+real	0m4.439s
+user	0m4.295s
+sys	0m0.143s
 ----------
 Run 80
 
-real	0m0.447s
-user	0m0.402s
-sys	0m0.044s
+real	0m4.440s
+user	0m4.294s
+sys	0m0.144s
 ----------
 Run 81
 
-real	0m0.433s
-user	0m0.408s
-sys	0m0.024s
+real	0m4.471s
+user	0m4.284s
+sys	0m0.185s
 ----------
 Run 82
 
-real	0m0.428s
-user	0m0.404s
-sys	0m0.024s
+real	0m4.480s
+user	0m4.251s
+sys	0m0.227s
 ----------
 Run 83
 
-real	0m0.436s
-user	0m0.407s
-sys	0m0.028s
+real	0m4.447s
+user	0m4.384s
+sys	0m0.062s
 ----------
 Run 84
 
-real	0m0.433s
-user	0m0.417s
-sys	0m0.016s
+real	0m4.436s
+user	0m4.289s
+sys	0m0.145s
 ----------
 Run 85
 
-real	0m0.430s
-user	0m0.401s
-sys	0m0.028s
+real	0m4.526s
+user	0m4.295s
+sys	0m0.227s
 ----------
 Run 86
 
-real	0m0.432s
-user	0m0.415s
-sys	0m0.016s
+real	0m4.434s
+user	0m4.288s
+sys	0m0.144s
 ----------
 Run 87
 
-real	0m0.434s
-user	0m0.405s
-sys	0m0.028s
+real	0m4.438s
+user	0m4.271s
+sys	0m0.165s
 ----------
 Run 88
 
-real	0m0.434s
-user	0m0.397s
-sys	0m0.036s
+real	0m4.439s
+user	0m4.335s
+sys	0m0.103s
 ----------
 Run 89
 
-real	0m0.431s
-user	0m0.399s
-sys	0m0.032s
+real	0m4.476s
+user	0m4.251s
+sys	0m0.223s
 ----------
 Run 90
 
-real	0m0.432s
-user	0m0.407s
-sys	0m0.024s
+real	0m4.441s
+user	0m4.357s
+sys	0m0.082s
 ----------
 Run 91
 
-real	0m0.436s
-user	0m0.412s
-sys	0m0.024s
+real	0m4.435s
+user	0m4.391s
+sys	0m0.042s
 ----------
 Run 92
 
-real	0m0.438s
-user	0m0.417s
-sys	0m0.020s
+real	0m4.440s
+user	0m4.229s
+sys	0m0.210s
 ----------
 Run 93
 
-real	0m0.436s
-user	0m0.423s
-sys	0m0.012s
+real	0m4.441s
+user	0m4.293s
+sys	0m0.146s
 ----------
 Run 94
 
-real	0m0.432s
-user	0m0.415s
-sys	0m0.016s
+real	0m4.438s
+user	0m4.293s
+sys	0m0.143s
 ----------
 Run 95
 
-real	0m0.434s
-user	0m0.413s
-sys	0m0.020s
+real	0m4.451s
+user	0m4.305s
+sys	0m0.144s
 ----------
 Run 96
 
-real	0m0.438s
-user	0m0.413s
-sys	0m0.024s
+real	0m4.439s
+user	0m4.354s
+sys	0m0.084s
 ----------
 Run 97
 
-real	0m0.435s
-user	0m0.410s
-sys	0m0.024s
+real	0m4.473s
+user	0m4.311s
+sys	0m0.124s
 ----------
 Run 98
 
-real	0m0.436s
-user	0m0.420s
-sys	0m0.016s
+real	0m4.442s
+user	0m4.233s
+sys	0m0.170s
 ----------
 Run 99
 
-real	0m0.439s
-user	0m0.414s
-sys	0m0.024s
+real	0m4.481s
+user	0m4.414s
+sys	0m0.063s
 ----------
 Run 100
 
-real	0m0.437s
-user	0m0.396s
-sys	0m0.040s
+real	0m4.445s
+user	0m4.358s
+sys	0m0.084s
 ----------
 END - min Pooling
 BEGIN - avg Pooling
 Run 1
 
-real	0m0.419s
-user	0m0.394s
-sys	0m0.024s
+real	0m4.359s
+user	0m4.108s
+sys	0m0.250s
 ----------
 Run 2
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.283s
+user	0m4.179s
+sys	0m0.103s
 ----------
 Run 3
 
-real	0m0.418s
-user	0m0.409s
-sys	0m0.008s
+real	0m4.328s
+user	0m4.222s
+sys	0m0.105s
 ----------
 Run 4
 
-real	0m0.427s
-user	0m0.390s
-sys	0m0.036s
+real	0m4.323s
+user	0m4.132s
+sys	0m0.189s
 ----------
 Run 5
 
-real	0m0.415s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.287s
+user	0m4.204s
+sys	0m0.081s
 ----------
 Run 6
 
-real	0m0.418s
-user	0m0.405s
-sys	0m0.012s
+real	0m4.356s
+user	0m4.226s
+sys	0m0.128s
 ----------
 Run 7
 
-real	0m0.416s
-user	0m0.403s
-sys	0m0.012s
+real	0m4.320s
+user	0m4.214s
+sys	0m0.104s
 ----------
 Run 8
 
-real	0m0.417s
-user	0m0.389s
-sys	0m0.028s
+real	0m4.315s
+user	0m4.189s
+sys	0m0.124s
 ----------
 Run 9
 
-real	0m0.417s
-user	0m0.385s
-sys	0m0.032s
+real	0m4.319s
+user	0m4.194s
+sys	0m0.123s
 ----------
 Run 10
 
-real	0m0.419s
-user	0m0.402s
-sys	0m0.016s
+real	0m4.325s
+user	0m4.175s
+sys	0m0.148s
 ----------
 Run 11
 
-real	0m0.422s
-user	0m0.421s
-sys	0m0.000s
+real	0m4.361s
+user	0m4.171s
+sys	0m0.189s
 ----------
 Run 12
 
-real	0m0.422s
-user	0m0.398s
-sys	0m0.024s
+real	0m4.320s
+user	0m4.173s
+sys	0m0.144s
 ----------
 Run 13
 
-real	0m0.420s
-user	0m0.380s
-sys	0m0.040s
+real	0m4.352s
+user	0m4.167s
+sys	0m0.148s
 ----------
 Run 14
 
-real	0m0.419s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.282s
+user	0m4.154s
+sys	0m0.126s
 ----------
 Run 15
 
-real	0m0.420s
-user	0m0.391s
-sys	0m0.028s
+real	0m4.317s
+user	0m4.168s
+sys	0m0.148s
 ----------
 Run 16
 
-real	0m0.422s
-user	0m0.405s
-sys	0m0.016s
+real	0m4.320s
+user	0m4.031s
+sys	0m0.287s
 ----------
 Run 17
 
-real	0m0.425s
-user	0m0.396s
-sys	0m0.028s
+real	0m4.327s
+user	0m4.200s
+sys	0m0.126s
 ----------
 Run 18
 
-real	0m0.425s
-user	0m0.404s
-sys	0m0.020s
+real	0m4.316s
+user	0m4.083s
+sys	0m0.231s
 ----------
 Run 19
 
-real	0m0.425s
-user	0m0.409s
-sys	0m0.016s
+real	0m4.319s
+user	0m4.174s
+sys	0m0.143s
 ----------
 Run 20
 
-real	0m0.420s
-user	0m0.399s
-sys	0m0.020s
+real	0m4.316s
+user	0m4.190s
+sys	0m0.125s
 ----------
 Run 21
 
-real	0m0.421s
-user	0m0.408s
-sys	0m0.012s
+real	0m4.319s
+user	0m4.233s
+sys	0m0.084s
 ----------
 Run 22
 
-real	0m0.419s
-user	0m0.391s
-sys	0m0.028s
+real	0m4.324s
+user	0m4.157s
+sys	0m0.166s
 ----------
 Run 23
 
-real	0m0.425s
-user	0m0.392s
-sys	0m0.032s
+real	0m4.282s
+user	0m4.138s
+sys	0m0.143s
 ----------
 Run 24
 
-real	0m0.425s
-user	0m0.397s
-sys	0m0.028s
+real	0m4.357s
+user	0m4.215s
+sys	0m0.104s
 ----------
 Run 25
 
-real	0m0.429s
-user	0m0.389s
-sys	0m0.040s
+real	0m4.316s
+user	0m4.211s
+sys	0m0.103s
 ----------
 Run 26
 
-real	0m0.423s
-user	0m0.403s
-sys	0m0.020s
+real	0m4.318s
+user	0m4.170s
+sys	0m0.147s
 ----------
 Run 27
 
-real	0m0.426s
-user	0m0.401s
-sys	0m0.024s
+real	0m4.361s
+user	0m4.208s
+sys	0m0.148s
 ----------
 Run 28
 
-real	0m0.437s
-user	0m0.404s
-sys	0m0.032s
+real	0m4.324s
+user	0m4.113s
+sys	0m0.209s
 ----------
 Run 29
 
-real	0m0.427s
-user	0m0.406s
-sys	0m0.020s
+real	0m4.321s
+user	0m4.152s
+sys	0m0.168s
 ----------
 Run 30
 
-real	0m0.430s
-user	0m0.406s
-sys	0m0.024s
+real	0m4.317s
+user	0m4.177s
+sys	0m0.102s
 ----------
 Run 31
 
-real	0m0.425s
-user	0m0.405s
-sys	0m0.020s
+real	0m4.324s
+user	0m4.176s
+sys	0m0.146s
 ----------
 Run 32
 
-real	0m0.418s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.321s
+user	0m4.195s
+sys	0m0.124s
 ----------
 Run 33
 
-real	0m0.416s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.328s
+user	0m4.222s
+sys	0m0.104s
 ----------
 Run 34
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.325s
+user	0m4.219s
+sys	0m0.104s
 ----------
 Run 35
 
-real	0m0.416s
-user	0m0.407s
-sys	0m0.008s
+real	0m4.284s
+user	0m4.156s
+sys	0m0.126s
 ----------
 Run 36
 
-real	0m0.419s
-user	0m0.406s
-sys	0m0.012s
+real	0m4.289s
+user	0m4.145s
+sys	0m0.143s
 ----------
 Run 37
 
-real	0m0.418s
-user	0m0.405s
-sys	0m0.012s
+real	0m4.324s
+user	0m4.136s
+sys	0m0.186s
 ----------
 Run 38
 
-real	0m0.419s
-user	0m0.394s
-sys	0m0.024s
+real	0m4.324s
+user	0m4.111s
+sys	0m0.211s
 ----------
 Run 39
 
-real	0m0.421s
-user	0m0.385s
-sys	0m0.036s
+real	0m4.321s
+user	0m4.107s
+sys	0m0.212s
 ----------
 Run 40
 
-real	0m0.417s
-user	0m0.396s
-sys	0m0.020s
+real	0m4.354s
+user	0m4.149s
+sys	0m0.202s
 ----------
 Run 41
 
-real	0m0.419s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.321s
+user	0m4.113s
+sys	0m0.206s
 ----------
 Run 42
 
-real	0m0.416s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.319s
+user	0m4.151s
+sys	0m0.165s
 ----------
 Run 43
 
-real	0m0.417s
-user	0m0.397s
-sys	0m0.020s
+real	0m4.348s
+user	0m4.146s
+sys	0m0.200s
 ----------
 Run 44
 
-real	0m0.418s
-user	0m0.401s
-sys	0m0.016s
+real	0m4.316s
+user	0m4.188s
+sys	0m0.126s
 ----------
 Run 45
 
-real	0m0.419s
-user	0m0.390s
-sys	0m0.028s
+real	0m4.405s
+user	0m4.197s
+sys	0m0.206s
 ----------
 Run 46
 
-real	0m0.418s
-user	0m0.401s
-sys	0m0.016s
+real	0m4.319s
+user	0m4.177s
+sys	0m0.104s
 ----------
 Run 47
 
-real	0m0.418s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.282s
+user	0m4.134s
+sys	0m0.147s
 ----------
 Run 48
 
-real	0m0.415s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.320s
+user	0m4.173s
+sys	0m0.145s
 ----------
 Run 49
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.315s
+user	0m4.155s
+sys	0m0.126s
 ----------
 Run 50
 
-real	0m0.417s
-user	0m0.380s
-sys	0m0.036s
+real	0m4.315s
+user	0m4.132s
+sys	0m0.145s
 ----------
 Run 51
 
-real	0m0.423s
-user	0m0.407s
-sys	0m0.016s
+real	0m4.320s
+user	0m4.090s
+sys	0m0.229s
 ----------
 Run 52
 
-real	0m0.418s
-user	0m0.389s
-sys	0m0.028s
+real	0m4.322s
+user	0m4.111s
+sys	0m0.210s
 ----------
 Run 53
 
-real	0m0.427s
-user	0m0.398s
-sys	0m0.029s
+real	0m4.355s
+user	0m4.234s
+sys	0m0.083s
 ----------
 Run 54
 
-real	0m0.417s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.321s
+user	0m4.091s
+sys	0m0.229s
 ----------
 Run 55
 
-real	0m0.421s
-user	0m0.400s
-sys	0m0.020s
+real	0m4.320s
+user	0m4.134s
+sys	0m0.184s
 ----------
 Run 56
 
-real	0m0.416s
-user	0m0.391s
-sys	0m0.024s
+real	0m4.327s
+user	0m4.077s
+sys	0m0.249s
 ----------
 Run 57
 
-real	0m0.418s
-user	0m0.389s
-sys	0m0.028s
+real	0m4.405s
+user	0m4.201s
+sys	0m0.167s
 ----------
 Run 58
 
-real	0m0.421s
-user	0m0.373s
-sys	0m0.048s
+real	0m4.312s
+user	0m4.101s
+sys	0m0.210s
 ----------
 Run 59
 
-real	0m0.420s
-user	0m0.404s
-sys	0m0.016s
+real	0m4.360s
+user	0m4.124s
+sys	0m0.232s
 ----------
 Run 60
 
-real	0m0.421s
-user	0m0.401s
-sys	0m0.020s
+real	0m4.329s
+user	0m4.141s
+sys	0m0.186s
 ----------
 Run 61
 
-real	0m0.419s
-user	0m0.402s
-sys	0m0.016s
+real	0m4.319s
+user	0m4.130s
+sys	0m0.187s
 ----------
 Run 62
 
-real	0m0.419s
-user	0m0.403s
-sys	0m0.016s
+real	0m4.320s
+user	0m4.093s
+sys	0m0.225s
 ----------
 Run 63
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.323s
+user	0m4.175s
+sys	0m0.146s
 ----------
 Run 64
 
-real	0m0.417s
-user	0m0.385s
-sys	0m0.032s
+real	0m4.318s
+user	0m4.173s
+sys	0m0.144s
 ----------
 Run 65
 
-real	0m0.421s
-user	0m0.404s
-sys	0m0.016s
+real	0m4.325s
+user	0m4.197s
+sys	0m0.126s
 ----------
 Run 66
 
-real	0m0.419s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.322s
+user	0m4.090s
+sys	0m0.231s
 ----------
 Run 67
 
-real	0m0.417s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.321s
+user	0m4.157s
+sys	0m0.124s
 ----------
 Run 68
 
-real	0m0.420s
-user	0m0.407s
-sys	0m0.012s
+real	0m4.353s
+user	0m4.162s
+sys	0m0.190s
 ----------
 Run 69
 
-real	0m0.418s
-user	0m0.358s
-sys	0m0.060s
+real	0m4.314s
+user	0m4.117s
+sys	0m0.170s
 ----------
 Run 70
 
-real	0m0.418s
-user	0m0.409s
-sys	0m0.008s
+real	0m4.323s
+user	0m4.176s
+sys	0m0.146s
 ----------
 Run 71
 
-real	0m0.418s
-user	0m0.398s
-sys	0m0.020s
+real	0m4.281s
+user	0m4.114s
+sys	0m0.166s
 ----------
 Run 72
 
-real	0m0.415s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.358s
+user	0m4.253s
+sys	0m0.104s
 ----------
 Run 73
 
-real	0m0.417s
-user	0m0.396s
-sys	0m0.020s
+real	0m4.282s
+user	0m4.138s
+sys	0m0.142s
 ----------
 Run 74
 
-real	0m0.415s
-user	0m0.391s
-sys	0m0.024s
+real	0m4.284s
+user	0m4.179s
+sys	0m0.103s
 ----------
 Run 75
 
-real	0m0.416s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.319s
+user	0m4.176s
+sys	0m0.141s
 ----------
 Run 76
 
-real	0m0.416s
-user	0m0.391s
-sys	0m0.024s
+real	0m4.321s
+user	0m4.133s
+sys	0m0.186s
 ----------
 Run 77
 
-real	0m0.428s
-user	0m0.399s
-sys	0m0.028s
+real	0m4.353s
+user	0m4.247s
+sys	0m0.105s
 ----------
 Run 78
 
-real	0m0.415s
-user	0m0.390s
-sys	0m0.024s
+real	0m4.316s
+user	0m4.149s
+sys	0m0.165s
 ----------
 Run 79
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.320s
+user	0m4.151s
+sys	0m0.168s
 ----------
 Run 80
 
-real	0m0.417s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.320s
+user	0m4.212s
+sys	0m0.106s
 ----------
 Run 81
 
-real	0m0.416s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.319s
+user	0m4.152s
+sys	0m0.166s
 ----------
 Run 82
 
-real	0m0.416s
-user	0m0.380s
-sys	0m0.036s
+real	0m4.316s
+user	0m4.191s
+sys	0m0.124s
 ----------
 Run 83
 
-real	0m0.417s
-user	0m0.396s
-sys	0m0.020s
+real	0m4.328s
+user	0m4.179s
+sys	0m0.148s
 ----------
 Run 84
 
-real	0m0.416s
-user	0m0.375s
-sys	0m0.041s
+real	0m4.322s
+user	0m4.258s
+sys	0m0.063s
 ----------
 Run 85
 
-real	0m0.427s
-user	0m0.418s
-sys	0m0.008s
+real	0m4.322s
+user	0m4.174s
+sys	0m0.146s
 ----------
 Run 86
 
-real	0m0.417s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.322s
+user	0m4.152s
+sys	0m0.169s
 ----------
 Run 87
 
-real	0m0.417s
-user	0m0.380s
-sys	0m0.036s
+real	0m4.319s
+user	0m4.173s
+sys	0m0.144s
 ----------
 Run 88
 
-real	0m0.416s
-user	0m0.387s
-sys	0m0.028s
+real	0m4.313s
+user	0m4.101s
+sys	0m0.210s
 ----------
 Run 89
 
-real	0m0.419s
-user	0m0.403s
-sys	0m0.016s
+real	0m4.335s
+user	0m4.109s
+sys	0m0.225s
 ----------
 Run 90
 
-real	0m0.417s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.249s
+user	0m4.166s
+sys	0m0.081s
 ----------
 Run 91
 
-real	0m0.418s
-user	0m0.397s
-sys	0m0.020s
+real	0m4.358s
+user	0m4.174s
+sys	0m0.182s
 ----------
 Run 92
 
-real	0m0.416s
-user	0m0.387s
-sys	0m0.028s
+real	0m4.279s
+user	0m4.193s
+sys	0m0.084s
 ----------
 Run 93
 
-real	0m0.416s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.354s
+user	0m4.195s
+sys	0m0.126s
 ----------
 Run 94
 
-real	0m0.419s
-user	0m0.410s
-sys	0m0.008s
+real	0m4.280s
+user	0m4.115s
+sys	0m0.163s
 ----------
 Run 95
 
-real	0m0.419s
-user	0m0.399s
-sys	0m0.020s
+real	0m4.367s
+user	0m4.174s
+sys	0m0.189s
 ----------
 Run 96
 
-real	0m0.419s
-user	0m0.387s
-sys	0m0.032s
+real	0m4.372s
+user	0m4.223s
+sys	0m0.147s
 ----------
 Run 97
 
-real	0m0.421s
-user	0m0.393s
-sys	0m0.028s
+real	0m4.326s
+user	0m4.156s
+sys	0m0.165s
 ----------
 Run 98
 
-real	0m0.423s
-user	0m0.402s
-sys	0m0.020s
+real	0m4.451s
+user	0m4.289s
+sys	0m0.125s
 ----------
 Run 99
 
-real	0m0.427s
-user	0m0.406s
-sys	0m0.020s
+real	0m4.276s
+user	0m4.130s
+sys	0m0.144s
 ----------
 Run 100
 
-real	0m0.427s
-user	0m0.410s
-sys	0m0.016s
+real	0m4.317s
+user	0m4.213s
+sys	0m0.103s
 ----------
 END - avg Pooling
 BEGIN - Sum Pooling
 Run 1
 
-real	0m0.424s
-user	0m0.407s
-sys	0m0.016s
+real	0m4.280s
+user	0m4.112s
+sys	0m0.167s
 ----------
 Run 2
 
-real	0m0.423s
-user	0m0.391s
-sys	0m0.032s
+real	0m4.244s
+user	0m4.118s
+sys	0m0.124s
 ----------
 Run 3
 
-real	0m0.415s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.278s
+user	0m4.106s
+sys	0m0.170s
 ----------
 Run 4
 
-real	0m0.412s
-user	0m0.383s
-sys	0m0.028s
+real	0m4.244s
+user	0m4.075s
+sys	0m0.168s
 ----------
 Run 5
 
-real	0m0.410s
-user	0m0.386s
-sys	0m0.024s
+real	0m4.328s
+user	0m4.162s
+sys	0m0.165s
 ----------
 Run 6
 
-real	0m0.413s
-user	0m0.392s
-sys	0m0.020s
+real	0m4.253s
+user	0m4.148s
+sys	0m0.103s
 ----------
 Run 7
 
-real	0m0.424s
-user	0m0.407s
-sys	0m0.016s
+real	0m4.240s
+user	0m4.134s
+sys	0m0.104s
 ----------
 Run 8
 
-real	0m0.415s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.272s
+user	0m4.150s
+sys	0m0.084s
 ----------
 Run 9
 
-real	0m0.415s
-user	0m0.382s
-sys	0m0.032s
+real	0m4.313s
+user	0m4.166s
+sys	0m0.145s
 ----------
 Run 10
 
-real	0m0.411s
-user	0m0.390s
-sys	0m0.020s
+real	0m4.337s
+user	0m4.234s
+sys	0m0.102s
 ----------
 Run 11
 
-real	0m0.412s
-user	0m0.379s
-sys	0m0.032s
+real	0m4.289s
+user	0m4.039s
+sys	0m0.249s
 ----------
 Run 12
 
-real	0m0.410s
-user	0m0.378s
-sys	0m0.032s
+real	0m4.338s
+user	0m4.167s
+sys	0m0.169s
 ----------
 Run 13
 
-real	0m0.411s
-user	0m0.398s
-sys	0m0.012s
+real	0m4.323s
+user	0m4.153s
+sys	0m0.168s
 ----------
 Run 14
 
-real	0m0.415s
-user	0m0.382s
-sys	0m0.032s
+real	0m4.304s
+user	0m4.137s
+sys	0m0.165s
 ----------
 Run 15
 
-real	0m0.409s
-user	0m0.381s
-sys	0m0.028s
+real	0m4.376s
+user	0m4.254s
+sys	0m0.085s
 ----------
 Run 16
 
-real	0m0.415s
-user	0m0.371s
-sys	0m0.044s
+real	0m4.329s
+user	0m4.223s
+sys	0m0.104s
 ----------
 Run 17
 
-real	0m0.414s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.247s
+user	0m4.080s
+sys	0m0.165s
 ----------
 Run 18
 
-real	0m0.413s
-user	0m0.385s
-sys	0m0.028s
+real	0m4.278s
+user	0m4.095s
+sys	0m0.145s
 ----------
 Run 19
 
-real	0m0.413s
-user	0m0.392s
-sys	0m0.020s
+real	0m4.288s
+user	0m4.181s
+sys	0m0.106s
 ----------
 Run 20
 
-real	0m0.416s
-user	0m0.404s
-sys	0m0.012s
+real	0m4.319s
+user	0m4.168s
+sys	0m0.149s
 ----------
 Run 21
 
-real	0m0.412s
-user	0m0.396s
-sys	0m0.016s
+real	0m4.240s
+user	0m4.091s
+sys	0m0.147s
 ----------
 Run 22
 
-real	0m0.415s
-user	0m0.398s
-sys	0m0.016s
+real	0m4.377s
+user	0m4.209s
+sys	0m0.167s
 ----------
 Run 23
 
-real	0m0.420s
-user	0m0.380s
-sys	0m0.040s
+real	0m4.337s
+user	0m4.144s
+sys	0m0.189s
 ----------
 Run 24
 
-real	0m0.415s
-user	0m0.391s
-sys	0m0.024s
+real	0m4.338s
+user	0m4.232s
+sys	0m0.104s
 ----------
 Run 25
 
-real	0m0.416s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.376s
+user	0m4.208s
+sys	0m0.166s
 ----------
 Run 26
 
-real	0m0.425s
-user	0m0.405s
-sys	0m0.020s
+real	0m4.254s
+user	0m4.190s
+sys	0m0.062s
 ----------
 Run 27
 
-real	0m0.416s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.291s
+user	0m4.208s
+sys	0m0.082s
 ----------
 Run 28
 
-real	0m0.411s
-user	0m0.395s
-sys	0m0.016s
+real	0m4.316s
+user	0m4.108s
+sys	0m0.206s
 ----------
 Run 29
 
-real	0m0.411s
-user	0m0.383s
-sys	0m0.028s
+real	0m4.288s
+user	0m4.099s
+sys	0m0.187s
 ----------
 Run 30
 
-real	0m0.412s
-user	0m0.395s
-sys	0m0.016s
+real	0m4.244s
+user	0m4.032s
+sys	0m0.210s
 ----------
 Run 31
 
-real	0m0.411s
-user	0m0.387s
-sys	0m0.024s
+real	0m4.285s
+user	0m4.060s
+sys	0m0.186s
 ----------
 Run 32
 
-real	0m0.415s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.326s
+user	0m4.180s
+sys	0m0.144s
 ----------
 Run 33
 
-real	0m0.416s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.287s
+user	0m4.054s
+sys	0m0.229s
 ----------
 Run 34
 
-real	0m0.423s
-user	0m0.391s
-sys	0m0.032s
+real	0m4.274s
+user	0m4.032s
+sys	0m0.208s
 ----------
 Run 35
 
-real	0m0.413s
-user	0m0.384s
-sys	0m0.028s
+real	0m4.280s
+user	0m4.155s
+sys	0m0.124s
 ----------
 Run 36
 
-real	0m0.417s
-user	0m0.396s
-sys	0m0.020s
+real	0m4.286s
+user	0m4.101s
+sys	0m0.184s
 ----------
 Run 37
 
-real	0m0.418s
-user	0m0.393s
-sys	0m0.024s
+real	0m4.337s
+user	0m4.191s
+sys	0m0.144s
 ----------
 Run 38
 
-real	0m0.413s
-user	0m0.396s
-sys	0m0.016s
+real	0m4.277s
+user	0m4.170s
+sys	0m0.104s
 ----------
 Run 39
 
-real	0m0.412s
-user	0m0.384s
-sys	0m0.028s
+real	0m4.287s
+user	0m4.201s
+sys	0m0.084s
 ----------
 Run 40
 
-real	0m0.411s
-user	0m0.379s
-sys	0m0.032s
+real	0m4.338s
+user	0m4.062s
+sys	0m0.274s
 ----------
 Run 41
 
-real	0m0.417s
-user	0m0.393s
-sys	0m0.024s
+real	0m4.321s
+user	0m4.174s
+sys	0m0.145s
 ----------
 Run 42
 
-real	0m0.415s
-user	0m0.390s
-sys	0m0.024s
+real	0m4.334s
+user	0m4.161s
+sys	0m0.172s
 ----------
 Run 43
 
-real	0m0.417s
-user	0m0.396s
-sys	0m0.020s
+real	0m4.337s
+user	0m4.106s
+sys	0m0.229s
 ----------
 Run 44
 
-real	0m0.415s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.339s
+user	0m4.131s
+sys	0m0.206s
 ----------
 Run 45
 
-real	0m0.412s
-user	0m0.387s
-sys	0m0.024s
+real	0m4.336s
+user	0m4.143s
+sys	0m0.192s
 ----------
 Run 46
 
-real	0m0.414s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.338s
+user	0m4.273s
+sys	0m0.064s
 ----------
 Run 47
 
-real	0m0.413s
-user	0m0.376s
-sys	0m0.036s
+real	0m4.342s
+user	0m4.213s
+sys	0m0.128s
 ----------
 Run 48
 
-real	0m0.413s
-user	0m0.392s
-sys	0m0.020s
+real	0m4.286s
+user	0m4.201s
+sys	0m0.083s
 ----------
 Run 49
 
-real	0m0.415s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.240s
+user	0m4.072s
+sys	0m0.167s
 ----------
 Run 50
 
-real	0m0.413s
-user	0m0.368s
-sys	0m0.044s
+real	0m4.273s
+user	0m4.039s
+sys	0m0.196s
 ----------
 Run 51
 
-real	0m0.423s
-user	0m0.379s
-sys	0m0.044s
+real	0m4.283s
+user	0m4.177s
+sys	0m0.103s
 ----------
 Run 52
 
-real	0m0.410s
-user	0m0.394s
-sys	0m0.016s
+real	0m4.205s
+user	0m4.076s
+sys	0m0.128s
 ----------
 Run 53
 
-real	0m0.416s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.235s
+user	0m3.989s
+sys	0m0.244s
 ----------
 Run 54
 
-real	0m0.413s
-user	0m0.384s
-sys	0m0.028s
+real	0m4.244s
+user	0m4.032s
+sys	0m0.210s
 ----------
 Run 55
 
-real	0m0.415s
-user	0m0.378s
-sys	0m0.036s
+real	0m6.339s
+user	0m4.446s
+sys	0m0.110s
 ----------
 Run 56
 
-real	0m0.412s
-user	0m0.395s
-sys	0m0.016s
+real	0m5.168s
+user	0m4.282s
+sys	0m0.188s
 ----------
 Run 57
 
-real	0m0.412s
-user	0m0.380s
-sys	0m0.032s
+real	0m4.324s
+user	0m4.198s
+sys	0m0.124s
 ----------
 Run 58
 
-real	0m0.413s
-user	0m0.381s
-sys	0m0.032s
+real	0m4.296s
+user	0m4.087s
+sys	0m0.208s
 ----------
 Run 59
 
-real	0m0.411s
-user	0m0.398s
-sys	0m0.012s
+real	0m4.318s
+user	0m4.211s
+sys	0m0.105s
 ----------
 Run 60
 
-real	0m0.415s
-user	0m0.390s
-sys	0m0.024s
+real	0m4.291s
+user	0m4.123s
+sys	0m0.167s
 ----------
 Run 61
 
-real	0m0.416s
-user	0m0.392s
-sys	0m0.024s
+real	0m4.347s
+user	0m4.180s
+sys	0m0.165s
 ----------
 Run 62
 
-real	0m0.416s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.240s
+user	0m4.073s
+sys	0m0.166s
 ----------
 Run 63
 
-real	0m0.413s
-user	0m0.405s
-sys	0m0.008s
+real	0m4.245s
+user	0m4.104s
+sys	0m0.104s
 ----------
 Run 64
 
-real	0m0.412s
-user	0m0.387s
-sys	0m0.024s
+real	0m4.285s
+user	0m4.122s
+sys	0m0.162s
 ----------
 Run 65
 
-real	0m0.413s
-user	0m0.389s
-sys	0m0.024s
+real	0m4.279s
+user	0m4.155s
+sys	0m0.123s
 ----------
 Run 66
 
-real	0m0.413s
-user	0m0.376s
-sys	0m0.036s
+real	0m4.324s
+user	0m4.113s
+sys	0m0.207s
 ----------
 Run 67
 
-real	0m0.412s
-user	0m0.388s
-sys	0m0.024s
+real	0m4.290s
+user	0m4.182s
+sys	0m0.106s
 ----------
 Run 68
 
-real	0m0.416s
-user	0m0.383s
-sys	0m0.032s
+real	0m4.279s
+user	0m4.067s
+sys	0m0.210s
 ----------
 Run 69
 
-real	0m0.417s
-user	0m0.400s
-sys	0m0.016s
+real	0m4.320s
+user	0m4.132s
+sys	0m0.186s
 ----------
 Run 70
 
-real	0m0.415s
-user	0m0.399s
-sys	0m0.016s
+real	0m4.243s
+user	0m4.160s
+sys	0m0.082s
 ----------
 Run 71
 
-real	0m0.417s
-user	0m0.384s
-sys	0m0.032s
+real	0m4.286s
+user	0m4.158s
+sys	0m0.126s
 ----------
 Run 72
 
-real	0m0.418s
-user	0m0.397s
-sys	0m0.020s
+real	0m4.291s
+user	0m4.185s
+sys	0m0.104s
 ----------
 Run 73
 
-real	0m0.417s
-user	0m0.388s
-sys	0m0.028s
+real	0m4.290s
+user	0m4.120s
+sys	0m0.167s
 ----------
 Run 74
 
-real	0m0.420s
-user	0m0.387s
-sys	0m0.032s
+real	0m4.337s
+user	0m4.143s
+sys	0m0.192s
 ----------
 Run 75
 
-real	0m0.427s
-user	0m0.379s
-sys	0m0.048s
+real	0m4.262s
+user	0m4.076s
+sys	0m0.185s
 ----------
 Run 76
 
-real	0m0.420s
-user	0m0.400s
-sys	0m0.020s
+real	0m4.241s
+user	0m4.134s
+sys	0m0.106s
 ----------
 Run 77
 
-real	0m0.415s
-user	0m0.395s
-sys	0m0.020s
+real	0m4.289s
+user	0m4.020s
+sys	0m0.268s
 ----------
 Run 78
 
-real	0m0.415s
-user	0m0.394s
-sys	0m0.020s
+real	0m4.377s
+user	0m4.227s
+sys	0m0.146s
 ----------
 Run 79
 
-real	0m0.411s
-user	0m0.402s
-sys	0m0.008s
+real	0m4.304s
+user	0m4.115s
+sys	0m0.187s
 ----------
 Run 80
 
-real	0m0.411s
-user	0m0.411s
-sys	0m0.000s
+real	0m4.323s
+user	0m4.136s
+sys	0m0.185s
 ----------
 Run 81
 
-real	0m0.410s
-user	0m0.374s
-sys	0m0.036s
+real	0m4.286s
+user	0m4.180s
+sys	0m0.104s
 ----------
 Run 82
 
-real	0m0.557s
-user	0m0.534s
-sys	0m0.023s
+real	0m4.242s
+user	0m4.036s
+sys	0m0.205s
 ----------
 Run 83
 
-real	0m0.592s
-user	0m0.572s
-sys	0m0.019s
+real	0m4.330s
+user	0m4.183s
+sys	0m0.146s
 ----------
 Run 84
 
-real	0m0.593s
-user	0m0.578s
-sys	0m0.014s
+real	0m4.333s
+user	0m4.228s
+sys	0m0.103s
 ----------
 Run 85
 
-real	0m0.601s
-user	0m0.586s
-sys	0m0.014s
+real	0m4.300s
+user	0m4.094s
+sys	0m0.205s
 ----------
 Run 86
 
-real	0m0.594s
-user	0m0.565s
-sys	0m0.028s
+real	0m4.342s
+user	0m4.213s
+sys	0m0.127s
 ----------
 Run 87
 
-real	0m0.595s
-user	0m0.552s
-sys	0m0.043s
+real	0m4.286s
+user	0m4.200s
+sys	0m0.084s
 ----------
 Run 88
 
-real	0m0.600s
-user	0m0.562s
-sys	0m0.038s
+real	0m4.332s
+user	0m4.118s
+sys	0m0.213s
 ----------
 Run 89
 
-real	0m0.592s
-user	0m0.567s
-sys	0m0.024s
+real	0m4.287s
+user	0m4.156s
+sys	0m0.129s
 ----------
 Run 90
 
-real	0m0.778s
-user	0m0.744s
-sys	0m0.034s
+real	0m4.240s
+user	0m4.133s
+sys	0m0.106s
 ----------
 Run 91
 
-real	0m1.042s
-user	0m0.992s
-sys	0m0.049s
+real	0m4.493s
+user	0m4.427s
+sys	0m0.065s
 ----------
 Run 92
 
-real	0m1.026s
-user	0m1.005s
-sys	0m0.021s
+real	0m4.298s
+user	0m4.149s
+sys	0m0.147s
 ----------
 Run 93
 
-real	0m1.075s
-user	0m1.049s
-sys	0m0.014s
+real	0m4.337s
+user	0m4.128s
+sys	0m0.207s
 ----------
 Run 94
 
-real	0m1.036s
-user	0m1.002s
-sys	0m0.034s
+real	0m4.335s
+user	0m4.123s
+sys	0m0.210s
 ----------
 Run 95
 
-real	0m3.149s
-user	0m3.053s
-sys	0m0.083s
+real	0m4.348s
+user	0m4.224s
+sys	0m0.123s
 ----------
 Run 96
 
-real	0m4.378s
-user	0m4.120s
-sys	0m0.254s
+real	0m4.335s
+user	0m4.312s
+sys	0m0.022s
 ----------
 Run 97
 
-real	0m4.924s
-user	0m4.815s
+real	0m4.331s
+user	0m4.225s
 sys	0m0.105s
 ----------
 Run 98
 
-real	0m4.289s
-user	0m4.000s
-sys	0m0.287s
+real	0m4.384s
+user	0m4.257s
+sys	0m0.125s
 ----------
 Run 99
 
-real	0m4.289s
-user	0m4.121s
-sys	0m0.167s
+real	0m4.338s
+user	0m4.175s
+sys	0m0.161s
 ----------
 Run 100
 
-real	0m4.243s
-user	0m4.095s
-sys	0m0.146s
+real	0m4.242s
+user	0m4.055s
+sys	0m0.186s
 ----------
 END - Sum Pooling
 BEGIN - Linear Layer
 Run 1
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.041s
-user	0m0.041s
+real	0m1.357s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 2
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+real	0m1.364s
+user	0m1.363s
+sys	0m0.000s
 ----------
 Run 3
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.370s
+user	0m1.369s
 sys	0m0.000s
 ----------
 Run 4
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.360s
+user	0m1.360s
 sys	0m0.000s
 ----------
 Run 5
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.037s
-sys	0m0.000s
+real	0m1.404s
+user	0m1.382s
+sys	0m0.021s
 ----------
 Run 6
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.368s
+user	0m1.367s
 sys	0m0.000s
 ----------
 Run 7
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.401s
+user	0m1.364s
 sys	0m0.000s
 ----------
 Run 8
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.326s
+user	0m1.326s
 sys	0m0.000s
 ----------
 Run 9
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.033s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.361s
+user	0m1.335s
+sys	0m0.025s
 ----------
 Run 10
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+real	0m1.358s
+user	0m1.337s
+sys	0m0.020s
 ----------
 Run 11
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.362s
+user	0m1.361s
 sys	0m0.000s
 ----------
 Run 12
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.321s
+user	0m1.301s
+sys	0m0.020s
 ----------
 Run 13
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.001s
+real	0m1.358s
+user	0m1.321s
 sys	0m0.000s
 ----------
 Run 14
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.364s
+user	0m1.363s
 sys	0m0.000s
 ----------
 Run 15
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.337s
+sys	0m0.020s
 ----------
 Run 16
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.365s
+user	0m1.364s
 sys	0m0.000s
 ----------
 Run 17
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.365s
+user	0m1.344s
+sys	0m0.021s
 ----------
 Run 18
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.339s
+sys	0m0.020s
 ----------
 Run 19
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.401s
+user	0m1.398s
 sys	0m0.000s
 ----------
 Run 20
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+real	0m1.359s
+user	0m1.317s
+sys	0m0.041s
 ----------
 Run 21
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.398s
+user	0m1.394s
 sys	0m0.000s
 ----------
 Run 22
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.336s
+sys	0m0.021s
 ----------
 Run 23
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.359s
+user	0m1.337s
+sys	0m0.020s
 ----------
 Run 24
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
+real	0m1.362s
+user	0m1.325s
+sys	0m0.000s
 ----------
 Run 25
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.359s
+user	0m1.358s
 sys	0m0.000s
 ----------
 Run 26
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.365s
+user	0m1.323s
+sys	0m0.041s
 ----------
 Run 27
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.018s
-sys	0m0.019s
+real	0m1.363s
+user	0m1.362s
+sys	0m0.000s
 ----------
 Run 28
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.336s
+sys	0m0.021s
 ----------
 Run 29
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.339s
+sys	0m0.020s
 ----------
 Run 30
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.362s
+user	0m1.341s
+sys	0m0.021s
 ----------
 Run 31
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.037s
+real	0m1.321s
+user	0m1.320s
 sys	0m0.000s
 ----------
 Run 32
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.401s
+user	0m1.389s
+sys	0m0.010s
 ----------
 Run 33
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.339s
+sys	0m0.020s
 ----------
 Run 34
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.363s
+user	0m1.362s
 sys	0m0.000s
 ----------
 Run 35
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.037s
+real	0m1.359s
+user	0m1.318s
+sys	0m0.040s
 ----------
 Run 36
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.362s
+user	0m1.340s
+sys	0m0.020s
 ----------
 Run 37
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.362s
+user	0m1.341s
+sys	0m0.020s
 ----------
 Run 38
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.355s
+user	0m1.302s
+sys	0m0.020s
 ----------
 Run 39
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.387s
+user	0m1.365s
+sys	0m0.021s
 ----------
 Run 40
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.362s
+user	0m1.345s
+sys	0m0.017s
 ----------
 Run 41
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.325s
+user	0m1.325s
 sys	0m0.000s
 ----------
 Run 42
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.357s
+user	0m1.336s
+sys	0m0.021s
 ----------
 Run 43
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.364s
+user	0m1.343s
+sys	0m0.021s
 ----------
 Run 44
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.404s
+user	0m1.382s
+sys	0m0.021s
 ----------
 Run 45
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.365s
+user	0m1.364s
 sys	0m0.000s
 ----------
 Run 46
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.361s
+user	0m1.340s
+sys	0m0.020s
 ----------
 Run 47
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.403s
+user	0m1.403s
 sys	0m0.000s
 ----------
 Run 48
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.007s
-sys	0m0.030s
+real	0m1.373s
+user	0m1.372s
+sys	0m0.000s
 ----------
 Run 49
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
-----------
-Run 50
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
-----------
-Run 51
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
-----------
-Run 52
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.037s
-user	0m0.016s
+real	0m1.403s
+user	0m1.381s
 sys	0m0.021s
 ----------
-Run 53
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
+Run 50
 
-real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.369s
+user	0m1.348s
+sys	0m0.020s
+----------
+Run 51
+
+real	0m1.404s
+user	0m1.383s
+sys	0m0.020s
+----------
+Run 52
+
+real	0m1.362s
+user	0m1.321s
+sys	0m0.040s
+----------
+Run 53
+
+real	0m1.357s
+user	0m1.336s
+sys	0m0.021s
 ----------
 Run 54
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.358s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 55
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.037s
+real	0m1.325s
+user	0m1.324s
+sys	0m0.000s
 ----------
 Run 56
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.357s
+user	0m1.336s
+sys	0m0.020s
 ----------
 Run 57
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.316s
+sys	0m0.041s
 ----------
 Run 58
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.358s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 59
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.037s
+real	0m1.357s
+user	0m1.356s
+sys	0m0.000s
 ----------
 Run 60
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.363s
+user	0m1.362s
 sys	0m0.000s
 ----------
 Run 61
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.364s
+user	0m1.343s
+sys	0m0.020s
 ----------
 Run 62
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.359s
+user	0m1.301s
+sys	0m0.020s
 ----------
 Run 63
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.001s
+real	0m1.361s
+user	0m1.361s
 sys	0m0.000s
 ----------
 Run 64
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.337s
+sys	0m0.020s
 ----------
 Run 65
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.357s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 66
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.366s
+user	0m1.345s
+sys	0m0.020s
 ----------
 Run 67
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.365s
+user	0m1.345s
+sys	0m0.020s
 ----------
 Run 68
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.364s
+user	0m1.343s
+sys	0m0.020s
 ----------
 Run 69
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.037s
+real	0m1.365s
+user	0m1.364s
+sys	0m0.000s
 ----------
 Run 70
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.363s
+user	0m1.326s
 sys	0m0.000s
 ----------
 Run 71
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.403s
+user	0m1.366s
 sys	0m0.000s
 ----------
 Run 72
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.365s
+user	0m1.365s
 sys	0m0.000s
 ----------
 Run 73
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.361s
+user	0m1.340s
+sys	0m0.020s
 ----------
 Run 74
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.362s
+user	0m1.320s
+sys	0m0.041s
 ----------
 Run 75
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.398s
+user	0m1.377s
+sys	0m0.021s
 ----------
 Run 76
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.365s
+user	0m1.364s
 sys	0m0.000s
 ----------
 Run 77
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.360s
+user	0m1.359s
 sys	0m0.000s
 ----------
 Run 78
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.338s
+sys	0m0.021s
 ----------
 Run 79
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
-sys	0m0.037s
+real	0m1.360s
+user	0m1.359s
+sys	0m0.000s
 ----------
 Run 80
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.402s
+user	0m1.340s
+sys	0m0.061s
 ----------
 Run 81
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.338s
+sys	0m0.021s
 ----------
 Run 82
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.363s
+user	0m1.362s
 sys	0m0.000s
 ----------
 Run 83
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.037s
+real	0m1.359s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 84
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.360s
+user	0m1.339s
+sys	0m0.021s
 ----------
 Run 85
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.359s
+user	0m1.322s
 sys	0m0.000s
 ----------
 Run 86
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.402s
+user	0m1.359s
+sys	0m0.043s
 ----------
 Run 87
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.001s
+real	0m1.364s
+user	0m1.363s
 sys	0m0.000s
 ----------
 Run 88
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.002s
-user	0m0.001s
-sys	0m0.000s
+real	0m1.358s
+user	0m1.337s
+sys	0m0.020s
 ----------
 Run 89
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.358s
+user	0m1.357s
 sys	0m0.000s
 ----------
 Run 90
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.000s
+real	0m1.364s
+user	0m1.363s
 sys	0m0.000s
 ----------
 Run 91
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.399s
+user	0m1.356s
+sys	0m0.041s
 ----------
 Run 92
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
-----------
-Run 93
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.037s
-user	0m0.012s
-sys	0m0.025s
-----------
-Run 94
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.001s
-user	0m0.000s
+real	0m1.367s
+user	0m1.366s
 sys	0m0.000s
 ----------
-Run 95
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
+Run 93
 
-real	0m0.001s
-user	0m0.000s
+real	0m1.401s
+user	0m1.364s
+sys	0m0.000s
+----------
+Run 94
+
+real	0m1.364s
+user	0m1.343s
+sys	0m0.020s
+----------
+Run 95
+
+real	0m1.373s
+user	0m1.372s
 sys	0m0.000s
 ----------
 Run 96
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.001s
-----------
-Run 97
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
-
-real	0m0.037s
-user	0m0.016s
+real	0m1.395s
+user	0m1.373s
 sys	0m0.021s
 ----------
-Run 98
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
+Run 97
 
-real	0m0.001s
-user	0m0.001s
+real	0m1.321s
+user	0m1.280s
+sys	0m0.041s
+----------
+Run 98
+
+real	0m1.362s
+user	0m1.361s
 sys	0m0.000s
 ----------
 Run 99
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.001s
-user	0m0.000s
-sys	0m0.000s
+real	0m1.361s
+user	0m1.339s
+sys	0m0.021s
 ----------
 Run 100
-run_cpp_experiments.sh: line 64: C++/linear: No such file or directory
 
-real	0m0.037s
-user	0m0.037s
-sys	0m0.000s
+real	0m1.325s
+user	0m1.284s
+sys	0m0.040s
 ----------
 END - Linear Pooling
 
  Performance counter stats for 'bash run_cpp_experiments.sh 100':
 
-         198506.90 msec task-clock                       #    0.997 CPUs utilized             
-              4660      context-switches                 #   23.475 /sec                      
+        1755348.88 msec task-clock                       #    0.997 CPUs utilized             
+             16794      context-switches                 #    9.567 /sec                      
                  0      cpu-migrations                   #    0.000 /sec                      
-           4587356      page-faults                      #   23.109 K/sec                     
+           4641210      page-faults                      #    2.644 K/sec                     
    <not supported>      cycles                                                                
    <not supported>      instructions                                                          
    <not supported>      branches                                                              
    <not supported>      branch-misses                                                         
 
-     199.193525384 seconds time elapsed
+    1760.836837175 seconds time elapsed
 
-     187.614631000 seconds user
-      10.959768000 seconds sys
+    1696.292492000 seconds user
+      59.231999000 seconds sys
 
 
