@@ -57,3 +57,12 @@ for i in $(seq 1 $runs); do
 done
 
 echo "END - Sum Pooling"
+
+echo "BEGIN - Linear Layer"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time C++/linear
+  echo "----------"
+done
+
+echo "END - Sum Pooling"

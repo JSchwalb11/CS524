@@ -10,46 +10,54 @@ fi
 
 echo "Runs = $runs"
 
-echo "BEGIN - Java Binary Search"
+echo "BEGIN - Binary Search"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time java Java.java_experiments
   echo "----------"
 done
-echo "END - Java Binary Search"
+echo "END - Binary Search"
 
 
-echo "BEGIN - Java Sum Pooling"
+echo "BEGIN - Sum Pooling"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time java Java.Sum
   echo "----------"
 done
-echo "END - Java Sum Pooling"
+echo "END - Sum Pooling"
 
 
-echo "BEGIN - Java Min Pooling"
+echo "BEGIN - Min Pooling"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time java Java.Min
   echo "----------"
 done
-echo "END - Java Min Pooling"
+echo "END - Min Pooling"
 
 
-echo "BEGIN - Java Max Pooling"
+echo "BEGIN - Max Pooling"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time java Java.Max
   echo "----------"
 done
-echo "END - Java Max Pooling"
+echo "END - Max Pooling"
 
 
-echo "BEGIN - Java Avg Pooling"
+echo "BEGIN - Avg Pooling"
 for i in $(seq 1 $runs); do
   echo "Run $i"
   time java Java.Avg
   echo "----------"
 done
-echo "END - Java Avg Pooling"
+echo "END - Avg Pooling"
+
+echo "BEGIN - Linear Layer"
+for i in $(seq 1 $runs); do
+  echo "Run $i"
+  time java Java.Linear
+  echo "----------"
+done
+echo "END - Linear Layer"
